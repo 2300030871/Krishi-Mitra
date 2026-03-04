@@ -1,0 +1,59 @@
+[33mcommit f945433ec9c775c72ec1c19c385c22bec7f4fe3c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Polepalli Pramodini <polepallipramodini@gmail.com>
+Date:   Wed Mar 4 15:08:15 2026 +0530
+
+    Initial commit
+
+[33mcommit d36477592340402244c546e9d6b6dbcc5c4da6e1[m
+Author: Aman <83164867+Aman-20@users.noreply.github.com>
+Date:   Mon Jan 19 21:49:53 2026 +0530
+
+    Add OPENWEATHER_API_KEY to README instructions
+
+[33mcommit 9095e22fe6a7ccaac5032c06497cbeaa21c65449[m
+Author: Aman <83164867+Aman-20@users.noreply.github.com>
+Date:   Wed Sep 24 23:33:16 2025 +0530
+
+    Update README.md
+
+[33mcommit 781927f7871402b06f5bbecc3b2494be8f30030b[m
+Author: Aman-20 <Aman22231757@gmail.com>
+Date:   Wed Sep 24 23:19:31 2025 +0530
+
+    Added README.md
+
+[33mcommit b7f2a07092228c6b566186ebb07ec1a146246075[m
+Author: Aman-20 <Aman22231757@gmail.com>
+Date:   Wed Sep 24 22:47:26 2025 +0530
+
+    Removed unused files html1 and server1
+
+[33mcommit 5dda7445d06959e2adf66b38fd67041eadf9b9d2[m
+Author: Aman-20 <Aman22231757@gmail.com>
+Date:   Tue Sep 23 23:47:04 2025 +0530
+
+    UI Improved
+
+[33mcommit ca055558b7e7315a4ad75844df337bc67025318c[m
+Author: Aman-20 <Aman22231757@gmail.com>
+Date:   Tue Sep 23 22:53:35 2025 +0530
+
+    buyer connect improved
+
+[33mcommit 998a27ab8c746fb2aebc0f81129ca33dec7d576b[m
+Author: Aman-20 <Aman22231757@gmail.com>
+Date:   Sun Sep 21 22:38:14 2025 +0530
+
+    language change working
+
+[33mcommit dd07ad2e8a94c6c8b2150b388e26b8694fa1f0c0[m
+Author: Aman-20 <Aman22231757@gmail.com>
+Date:   Sun Sep 21 22:04:36 2025 +0530
+
+     weather is wroking now
+
+[33mcommit a7d2a27e164b3f84114d5746ef4fbc98fcfa6c29[m
+Author: Aman-20 <Aman22231757@gmail.com>
+Date:   Fri Sep 19 21:01:25 2025 +0530
+
+    first commit

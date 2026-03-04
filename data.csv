@@ -1,0 +1,2001 @@
+name,price,quantity,farmer,location,state
+Rice,4354,996,Farmer_1,City_43,Jharkhand
+Potato,4963,830,Farmer_2,City_178,Sikkim
+Banana,12922,316,Farmer_3,City_170,Uttarakhand
+Potato,9905,261,Farmer_4,City_39,Kerala
+Chilli,7835,782,Farmer_5,City_139,Manipur
+Coffee,9184,752,Farmer_6,City_106,Arunachal Pradesh
+Chilli,13021,808,Farmer_7,City_20,Assam
+Barley,13163,280,Farmer_8,City_187,Tamil Nadu
+Turmeric,3954,87,Farmer_9,City_38,Nagaland
+Onion,3669,854,Farmer_10,City_200,Punjab
+Cotton,14290,701,Farmer_11,City_119,Kerala
+Chilli,4460,221,Farmer_12,City_13,Odisha
+Sugarcane,3177,750,Farmer_13,City_128,Arunachal Pradesh
+Onion,6141,683,Farmer_14,City_167,Manipur
+Pulses,11749,322,Farmer_15,City_93,Tripura
+Tea,7124,193,Farmer_16,City_2,Rajasthan
+Soybean,9177,298,Farmer_17,City_12,Mizoram
+Tea,8693,340,Farmer_18,City_134,Haryana
+Jute,4590,373,Farmer_19,City_172,Kerala
+Wheat,4684,388,Farmer_20,City_165,Madhya Pradesh
+Tea,6947,488,Farmer_21,City_88,Maharashtra
+Potato,12976,275,Farmer_22,City_15,Himachal Pradesh
+Barley,13624,830,Farmer_23,City_96,Madhya Pradesh
+Cotton,13783,584,Farmer_24,City_185,Maharashtra
+Jute,1983,443,Farmer_25,City_51,Arunachal Pradesh
+Onion,7824,611,Farmer_26,City_89,Goa
+Coffee,6075,645,Farmer_27,City_146,Bihar
+Potato,9798,812,Farmer_28,City_104,Bihar
+Onion,14235,299,Farmer_29,City_17,Karnataka
+Coffee,2015,674,Farmer_30,City_138,Odisha
+Mustard,6664,367,Farmer_31,City_48,Mizoram
+Tomato,12727,942,Farmer_32,City_164,Uttarakhand
+Sugarcane,1617,565,Farmer_33,City_93,Arunachal Pradesh
+Tomato,1501,782,Farmer_34,City_176,Arunachal Pradesh
+Wheat,8551,430,Farmer_35,City_180,Arunachal Pradesh
+Potato,10655,320,Farmer_36,City_16,Mizoram
+Groundnut,14349,482,Farmer_37,City_171,Jharkhand
+Soybean,5582,310,Farmer_38,City_5,Karnataka
+Potato,5823,156,Farmer_39,City_111,Bihar
+Pulses,6199,160,Farmer_40,City_60,Odisha
+Jute,6248,653,Farmer_41,City_189,Maharashtra
+Rice,12120,170,Farmer_42,City_26,Chhattisgarh
+Chilli,6099,598,Farmer_43,City_101,Bihar
+Tea,2270,168,Farmer_44,City_169,Kerala
+Barley,9145,412,Farmer_45,City_50,Bihar
+Maize,10019,689,Farmer_46,City_35,Uttar Pradesh
+Jute,8323,232,Farmer_47,City_148,Kerala
+Soybean,2202,637,Farmer_48,City_35,Haryana
+Rice,14464,238,Farmer_49,City_17,Mizoram
+Sugarcane,9741,90,Farmer_50,City_170,Telangana
+Sugarcane,12217,518,Farmer_51,City_111,Meghalaya
+Chilli,2749,771,Farmer_52,City_50,Kerala
+Potato,7681,757,Farmer_53,City_88,West Bengal
+Rice,6573,572,Farmer_54,City_34,Rajasthan
+Pulses,7349,730,Farmer_55,City_189,Madhya Pradesh
+Soybean,4501,367,Farmer_56,City_166,West Bengal
+Jute,6608,535,Farmer_57,City_116,Tamil Nadu
+Tomato,1935,523,Farmer_58,City_115,Chhattisgarh
+Coffee,13163,110,Farmer_59,City_1,Gujarat
+Soybean,4505,415,Farmer_60,City_23,Uttar Pradesh
+Tomato,9225,692,Farmer_61,City_82,Nagaland
+Coffee,13786,463,Farmer_62,City_46,Chhattisgarh
+Barley,9943,552,Farmer_63,City_37,Odisha
+Onion,8458,833,Farmer_64,City_100,Karnataka
+Pulses,5341,599,Farmer_65,City_95,Kerala
+Coffee,14472,764,Farmer_66,City_151,Chhattisgarh
+Pulses,2499,329,Farmer_67,City_44,Meghalaya
+Wheat,13667,313,Farmer_68,City_43,Tamil Nadu
+Tea,12869,710,Farmer_69,City_69,Maharashtra
+Onion,10376,644,Farmer_70,City_180,Gujarat
+Soybean,14251,962,Farmer_71,City_186,Himachal Pradesh
+Potato,2304,773,Farmer_72,City_186,Arunachal Pradesh
+Maize,7220,603,Farmer_73,City_118,Haryana
+Potato,5324,979,Farmer_74,City_66,Odisha
+Maize,4240,466,Farmer_75,City_57,Uttarakhand
+Mustard,10913,143,Farmer_76,City_8,Jharkhand
+Pulses,4545,169,Farmer_77,City_19,Goa
+Turmeric,4766,827,Farmer_78,City_1,Andhra Pradesh
+Tomato,10070,771,Farmer_79,City_5,Madhya Pradesh
+Chilli,14186,722,Farmer_80,City_194,Haryana
+Turmeric,6762,986,Farmer_81,City_113,Arunachal Pradesh
+Rice,4939,461,Farmer_82,City_126,Meghalaya
+Chilli,13472,619,Farmer_83,City_66,West Bengal
+Pulses,5793,752,Farmer_84,City_154,West Bengal
+Jute,9147,731,Farmer_85,City_171,West Bengal
+Tea,10691,248,Farmer_86,City_160,Maharashtra
+Chilli,9350,646,Farmer_87,City_9,Gujarat
+Barley,13777,154,Farmer_88,City_80,West Bengal
+Onion,11506,90,Farmer_89,City_89,Kerala
+Sugarcane,9317,871,Farmer_90,City_28,Manipur
+Turmeric,10818,424,Farmer_91,City_127,Kerala
+Potato,8508,84,Farmer_92,City_29,Uttar Pradesh
+Tea,7870,783,Farmer_93,City_196,Arunachal Pradesh
+Soybean,2685,331,Farmer_94,City_32,Bihar
+Pulses,3340,865,Farmer_95,City_41,Karnataka
+Sugarcane,8914,470,Farmer_96,City_77,Tamil Nadu
+Potato,6684,510,Farmer_97,City_150,Assam
+Onion,13569,642,Farmer_98,City_170,Tamil Nadu
+Rice,3928,709,Farmer_99,City_34,Nagaland
+Maize,8073,789,Farmer_100,City_148,Rajasthan
+Millets,3783,968,Farmer_101,City_187,Madhya Pradesh
+Potato,2762,611,Farmer_102,City_65,Bihar
+Turmeric,9554,684,Farmer_103,City_66,Uttar Pradesh
+Cotton,9012,736,Farmer_104,City_127,Gujarat
+Jute,7493,120,Farmer_105,City_28,Jharkhand
+Tomato,14435,251,Farmer_106,City_81,Nagaland
+Turmeric,5992,471,Farmer_107,City_107,Jharkhand
+Tomato,5333,797,Farmer_108,City_67,Tripura
+Barley,7942,911,Farmer_109,City_193,Haryana
+Mustard,3475,137,Farmer_110,City_178,Meghalaya
+Soybean,14946,688,Farmer_111,City_39,Rajasthan
+Banana,4231,526,Farmer_112,City_124,Maharashtra
+Tea,12382,596,Farmer_113,City_2,Kerala
+Maize,8929,654,Farmer_114,City_106,Karnataka
+Maize,9217,421,Farmer_115,City_44,Manipur
+Wheat,5942,826,Farmer_116,City_22,Tamil Nadu
+Pulses,8452,673,Farmer_117,City_152,Telangana
+Banana,8534,526,Farmer_118,City_98,Tamil Nadu
+Pulses,12502,285,Farmer_119,City_49,Uttarakhand
+Tea,3831,961,Farmer_120,City_146,Arunachal Pradesh
+Cotton,13656,425,Farmer_121,City_106,Nagaland
+Groundnut,5757,506,Farmer_122,City_167,Chhattisgarh
+Banana,7843,849,Farmer_123,City_108,Uttar Pradesh
+Sugarcane,2431,691,Farmer_124,City_164,Uttarakhand
+Turmeric,6813,162,Farmer_125,City_91,Arunachal Pradesh
+Sugarcane,7287,320,Farmer_126,City_94,Andhra Pradesh
+Mustard,13828,341,Farmer_127,City_174,Sikkim
+Groundnut,6535,618,Farmer_128,City_199,Telangana
+Tomato,14315,853,Farmer_129,City_35,Arunachal Pradesh
+Maize,13508,163,Farmer_130,City_35,Arunachal Pradesh
+Potato,8685,839,Farmer_131,City_62,Sikkim
+Wheat,7871,857,Farmer_132,City_60,Madhya Pradesh
+Tea,13782,963,Farmer_133,City_157,Rajasthan
+Millets,12994,409,Farmer_134,City_132,Tamil Nadu
+Cotton,5993,129,Farmer_135,City_46,Punjab
+Sugarcane,4741,522,Farmer_136,City_166,Rajasthan
+Soybean,14233,998,Farmer_137,City_7,Sikkim
+Tea,5819,340,Farmer_138,City_81,West Bengal
+Cotton,2935,848,Farmer_139,City_151,Telangana
+Jute,8316,288,Farmer_140,City_69,Kerala
+Wheat,6735,463,Farmer_141,City_156,Himachal Pradesh
+Tea,5497,828,Farmer_142,City_186,Nagaland
+Tea,3238,338,Farmer_143,City_36,Bihar
+Onion,6375,181,Farmer_144,City_98,Haryana
+Mustard,6474,791,Farmer_145,City_70,Bihar
+Wheat,8612,699,Farmer_146,City_123,Andhra Pradesh
+Tomato,10793,300,Farmer_147,City_24,Karnataka
+Coffee,1876,696,Farmer_148,City_29,Maharashtra
+Maize,9049,851,Farmer_149,City_44,Bihar
+Cotton,5226,51,Farmer_150,City_127,Goa
+Millets,9354,706,Farmer_151,City_136,Manipur
+Chilli,12891,765,Farmer_152,City_137,Uttarakhand
+Groundnut,3461,850,Farmer_153,City_16,Tamil Nadu
+Wheat,6011,407,Farmer_154,City_84,Jharkhand
+Mustard,2008,410,Farmer_155,City_37,Mizoram
+Maize,5012,893,Farmer_156,City_158,Uttarakhand
+Sugarcane,2986,518,Farmer_157,City_87,Gujarat
+Pulses,4516,595,Farmer_158,City_123,Kerala
+Jute,1566,112,Farmer_159,City_164,Rajasthan
+Tea,11117,799,Farmer_160,City_146,Punjab
+Potato,10110,136,Farmer_161,City_180,Karnataka
+Chilli,5727,464,Farmer_162,City_78,Himachal Pradesh
+Sugarcane,11117,971,Farmer_163,City_178,West Bengal
+Coffee,10739,786,Farmer_164,City_184,Tripura
+Mustard,6255,479,Farmer_165,City_97,Kerala
+Tea,9345,445,Farmer_166,City_120,Chhattisgarh
+Jute,2438,580,Farmer_167,City_159,Karnataka
+Tomato,14348,446,Farmer_168,City_128,West Bengal
+Sugarcane,11705,778,Farmer_169,City_33,Bihar
+Maize,13648,460,Farmer_170,City_72,Rajasthan
+Wheat,12937,471,Farmer_171,City_58,Tripura
+Onion,11767,223,Farmer_172,City_118,Arunachal Pradesh
+Tomato,8858,225,Farmer_173,City_145,West Bengal
+Chilli,4573,828,Farmer_174,City_120,Jharkhand
+Cotton,2656,746,Farmer_175,City_148,Uttar Pradesh
+Soybean,2778,984,Farmer_176,City_70,Gujarat
+Mustard,3886,222,Farmer_177,City_28,Maharashtra
+Potato,4809,895,Farmer_178,City_148,Chhattisgarh
+Chilli,13052,813,Farmer_179,City_20,Tamil Nadu
+Cotton,10196,859,Farmer_180,City_60,Maharashtra
+Maize,7925,381,Farmer_181,City_172,Kerala
+Potato,13278,187,Farmer_182,City_196,Uttarakhand
+Banana,5097,378,Farmer_183,City_62,Maharashtra
+Coffee,3136,189,Farmer_184,City_188,West Bengal
+Potato,8686,163,Farmer_185,City_51,Uttar Pradesh
+Pulses,12616,757,Farmer_186,City_73,Himachal Pradesh
+Coffee,3418,642,Farmer_187,City_88,Madhya Pradesh
+Maize,8462,498,Farmer_188,City_98,Andhra Pradesh
+Barley,6682,491,Farmer_189,City_148,Sikkim
+Tomato,10289,498,Farmer_190,City_146,Bihar
+Rice,1674,510,Farmer_191,City_164,Bihar
+Tomato,6694,546,Farmer_192,City_200,Telangana
+Groundnut,6355,425,Farmer_193,City_59,Punjab
+Chilli,7976,732,Farmer_194,City_114,Chhattisgarh
+Onion,2213,981,Farmer_195,City_148,Tripura
+Onion,10241,650,Farmer_196,City_103,Assam
+Sugarcane,8100,468,Farmer_197,City_109,Madhya Pradesh
+Coffee,1850,691,Farmer_198,City_58,Telangana
+Groundnut,3398,66,Farmer_199,City_110,Bihar
+Tomato,1788,166,Farmer_200,City_126,Sikkim
+Cotton,11632,225,Farmer_201,City_90,Tripura
+Jute,6145,705,Farmer_202,City_44,Nagaland
+Maize,3104,900,Farmer_203,City_135,Telangana
+Jute,4305,302,Farmer_204,City_69,Sikkim
+Tomato,13799,788,Farmer_205,City_40,Nagaland
+Sugarcane,3585,498,Farmer_206,City_142,Tamil Nadu
+Groundnut,14029,227,Farmer_207,City_69,Bihar
+Soybean,7113,610,Farmer_208,City_94,Goa
+Wheat,14375,896,Farmer_209,City_179,Nagaland
+Chilli,6030,908,Farmer_210,City_157,Himachal Pradesh
+Jute,4766,310,Farmer_211,City_49,Arunachal Pradesh
+Banana,6260,954,Farmer_212,City_121,Uttarakhand
+Onion,6045,446,Farmer_213,City_180,Meghalaya
+Tomato,8825,120,Farmer_214,City_142,Odisha
+Soybean,10394,628,Farmer_215,City_60,Assam
+Coffee,6609,886,Farmer_216,City_110,Tripura
+Pulses,11513,896,Farmer_217,City_168,West Bengal
+Coffee,6427,450,Farmer_218,City_108,Mizoram
+Chilli,10458,532,Farmer_219,City_38,West Bengal
+Jute,2946,405,Farmer_220,City_183,Himachal Pradesh
+Groundnut,7684,929,Farmer_221,City_45,Haryana
+Rice,4140,248,Farmer_222,City_125,Telangana
+Potato,12260,633,Farmer_223,City_8,Meghalaya
+Coffee,6764,550,Farmer_224,City_21,Punjab
+Potato,8532,183,Farmer_225,City_186,Tamil Nadu
+Jute,12076,106,Farmer_226,City_31,Odisha
+Coffee,5700,92,Farmer_227,City_146,Goa
+Barley,13296,435,Farmer_228,City_155,Chhattisgarh
+Cotton,3398,140,Farmer_229,City_128,Meghalaya
+Coffee,10276,79,Farmer_230,City_178,Telangana
+Tea,1849,71,Farmer_231,City_118,Sikkim
+Soybean,10585,871,Farmer_232,City_143,Assam
+Maize,2477,330,Farmer_233,City_82,Odisha
+Pulses,5975,634,Farmer_234,City_139,Telangana
+Banana,10623,880,Farmer_235,City_134,Himachal Pradesh
+Sugarcane,4336,523,Farmer_236,City_30,West Bengal
+Tomato,8498,715,Farmer_237,City_110,Rajasthan
+Potato,3319,942,Farmer_238,City_191,Meghalaya
+Wheat,10683,471,Farmer_239,City_47,Mizoram
+Potato,10069,85,Farmer_240,City_99,Nagaland
+Soybean,4078,781,Farmer_241,City_30,Manipur
+Rice,5015,604,Farmer_242,City_191,Telangana
+Jute,7021,283,Farmer_243,City_144,Nagaland
+Barley,12834,848,Farmer_244,City_165,Rajasthan
+Jute,12902,389,Farmer_245,City_196,Uttarakhand
+Turmeric,3101,664,Farmer_246,City_17,West Bengal
+Mustard,5882,567,Farmer_247,City_93,Haryana
+Turmeric,12221,442,Farmer_248,City_105,Goa
+Rice,11472,175,Farmer_249,City_165,Goa
+Cotton,13687,620,Farmer_250,City_23,Uttar Pradesh
+Wheat,6004,665,Farmer_251,City_196,Karnataka
+Tea,6026,330,Farmer_252,City_45,Uttarakhand
+Tomato,12029,774,Farmer_253,City_195,Punjab
+Cotton,14713,193,Farmer_254,City_182,Odisha
+Rice,9709,431,Farmer_255,City_77,Andhra Pradesh
+Jute,2530,165,Farmer_256,City_132,Chhattisgarh
+Rice,7719,807,Farmer_257,City_174,Mizoram
+Wheat,14604,684,Farmer_258,City_166,Karnataka
+Soybean,6679,780,Farmer_259,City_112,Himachal Pradesh
+Potato,9058,870,Farmer_260,City_163,Jharkhand
+Cotton,9050,596,Farmer_261,City_125,Madhya Pradesh
+Pulses,10607,422,Farmer_262,City_73,Assam
+Potato,1833,520,Farmer_263,City_122,Himachal Pradesh
+Soybean,14170,188,Farmer_264,City_1,Punjab
+Tea,11835,848,Farmer_265,City_162,Uttar Pradesh
+Maize,13911,364,Farmer_266,City_177,Jharkhand
+Soybean,4640,736,Farmer_267,City_189,Odisha
+Mustard,11896,227,Farmer_268,City_195,Arunachal Pradesh
+Groundnut,11690,211,Farmer_269,City_23,Uttar Pradesh
+Turmeric,3071,972,Farmer_270,City_127,Bihar
+Rice,14529,152,Farmer_271,City_25,Assam
+Rice,12206,401,Farmer_272,City_24,Manipur
+Barley,4693,982,Farmer_273,City_71,Punjab
+Pulses,3013,332,Farmer_274,City_185,Rajasthan
+Soybean,3203,362,Farmer_275,City_142,Andhra Pradesh
+Jute,13204,885,Farmer_276,City_127,Rajasthan
+Turmeric,8821,554,Farmer_277,City_64,Arunachal Pradesh
+Groundnut,12305,767,Farmer_278,City_98,Manipur
+Onion,10239,937,Farmer_279,City_160,Odisha
+Onion,11826,780,Farmer_280,City_62,Manipur
+Maize,9395,915,Farmer_281,City_6,Himachal Pradesh
+Mustard,14515,571,Farmer_282,City_140,Maharashtra
+Tomato,5516,181,Farmer_283,City_71,Uttarakhand
+Pulses,14158,708,Farmer_284,City_159,Kerala
+Jute,6428,579,Farmer_285,City_54,Karnataka
+Tomato,8035,513,Farmer_286,City_4,Mizoram
+Sugarcane,13041,262,Farmer_287,City_19,Gujarat
+Wheat,6693,782,Farmer_288,City_129,Chhattisgarh
+Millets,9641,709,Farmer_289,City_149,Tripura
+Pulses,2153,968,Farmer_290,City_117,Uttar Pradesh
+Tea,5537,544,Farmer_291,City_27,Karnataka
+Coffee,6667,191,Farmer_292,City_59,Tamil Nadu
+Tea,13611,971,Farmer_293,City_160,Odisha
+Millets,5710,572,Farmer_294,City_134,Rajasthan
+Potato,7810,407,Farmer_295,City_107,Himachal Pradesh
+Banana,13133,593,Farmer_296,City_65,Sikkim
+Millets,2209,883,Farmer_297,City_35,West Bengal
+Potato,11647,239,Farmer_298,City_88,Haryana
+Mustard,9833,169,Farmer_299,City_94,Jharkhand
+Banana,4279,229,Farmer_300,City_80,Maharashtra
+Banana,2175,90,Farmer_301,City_152,Himachal Pradesh
+Mustard,6636,563,Farmer_302,City_8,Maharashtra
+Turmeric,1843,82,Farmer_303,City_171,Maharashtra
+Pulses,2285,546,Farmer_304,City_147,Bihar
+Banana,4794,984,Farmer_305,City_40,Meghalaya
+Cotton,1745,683,Farmer_306,City_75,Maharashtra
+Chilli,10350,784,Farmer_307,City_111,Jharkhand
+Turmeric,9347,771,Farmer_308,City_163,Karnataka
+Coffee,8475,504,Farmer_309,City_158,Jharkhand
+Sugarcane,13193,696,Farmer_310,City_89,Himachal Pradesh
+Coffee,4617,225,Farmer_311,City_163,Karnataka
+Wheat,6963,134,Farmer_312,City_168,Punjab
+Rice,8165,654,Farmer_313,City_142,Tamil Nadu
+Groundnut,9774,971,Farmer_314,City_37,Uttarakhand
+Tomato,3707,154,Farmer_315,City_62,Tripura
+Barley,10549,84,Farmer_316,City_58,Manipur
+Coffee,9690,710,Farmer_317,City_19,Andhra Pradesh
+Tea,2891,889,Farmer_318,City_138,Punjab
+Mustard,2046,539,Farmer_319,City_110,Andhra Pradesh
+Pulses,4253,87,Farmer_320,City_145,Gujarat
+Turmeric,14971,720,Farmer_321,City_145,Gujarat
+Soybean,7495,75,Farmer_322,City_142,West Bengal
+Jute,8492,396,Farmer_323,City_19,Tamil Nadu
+Maize,1629,965,Farmer_324,City_123,Meghalaya
+Soybean,14613,196,Farmer_325,City_126,Arunachal Pradesh
+Jute,4036,463,Farmer_326,City_164,Uttar Pradesh
+Millets,7957,512,Farmer_327,City_193,Mizoram
+Tea,13320,726,Farmer_328,City_60,Rajasthan
+Potato,3236,985,Farmer_329,City_173,Uttarakhand
+Pulses,4606,587,Farmer_330,City_16,Arunachal Pradesh
+Soybean,7496,990,Farmer_331,City_34,Manipur
+Rice,14175,713,Farmer_332,City_59,West Bengal
+Cotton,12888,436,Farmer_333,City_159,Gujarat
+Maize,9376,657,Farmer_334,City_67,Meghalaya
+Rice,14778,509,Farmer_335,City_92,Kerala
+Sugarcane,10298,374,Farmer_336,City_141,Uttarakhand
+Millets,1789,789,Farmer_337,City_4,Maharashtra
+Tomato,4678,993,Farmer_338,City_166,Tripura
+Jute,5477,297,Farmer_339,City_184,Rajasthan
+Wheat,13149,681,Farmer_340,City_181,Rajasthan
+Millets,2327,92,Farmer_341,City_86,Kerala
+Coffee,10880,975,Farmer_342,City_196,Uttar Pradesh
+Barley,3783,577,Farmer_343,City_136,Chhattisgarh
+Coffee,12994,935,Farmer_344,City_38,Bihar
+Tea,4106,381,Farmer_345,City_127,Tamil Nadu
+Soybean,2023,593,Farmer_346,City_120,Haryana
+Potato,9920,146,Farmer_347,City_178,Uttar Pradesh
+Banana,4230,658,Farmer_348,City_100,Sikkim
+Jute,6629,759,Farmer_349,City_163,Sikkim
+Pulses,5549,65,Farmer_350,City_23,Mizoram
+Wheat,4437,258,Farmer_351,City_198,Gujarat
+Mustard,12995,199,Farmer_352,City_114,Tripura
+Banana,6694,461,Farmer_353,City_107,Chhattisgarh
+Tomato,5026,351,Farmer_354,City_37,Goa
+Banana,14674,833,Farmer_355,City_113,Telangana
+Soybean,4448,268,Farmer_356,City_154,Tamil Nadu
+Coffee,10822,755,Farmer_357,City_152,Telangana
+Cotton,14971,892,Farmer_358,City_124,Uttar Pradesh
+Coffee,4089,178,Farmer_359,City_58,Mizoram
+Banana,11979,508,Farmer_360,City_130,Gujarat
+Rice,8652,408,Farmer_361,City_33,Odisha
+Tea,7065,235,Farmer_362,City_38,Uttarakhand
+Banana,2893,227,Farmer_363,City_90,Goa
+Chilli,2706,897,Farmer_364,City_62,Goa
+Tea,12166,544,Farmer_365,City_123,Mizoram
+Coffee,13404,940,Farmer_366,City_34,Maharashtra
+Pulses,10418,403,Farmer_367,City_62,Karnataka
+Soybean,14213,447,Farmer_368,City_96,Tripura
+Barley,11585,319,Farmer_369,City_171,West Bengal
+Tomato,5091,499,Farmer_370,City_76,Kerala
+Chilli,8101,638,Farmer_371,City_104,Gujarat
+Sugarcane,13385,565,Farmer_372,City_156,Tamil Nadu
+Sugarcane,8077,361,Farmer_373,City_89,Tamil Nadu
+Sugarcane,10930,172,Farmer_374,City_172,Odisha
+Soybean,1646,678,Farmer_375,City_195,Karnataka
+Banana,6742,506,Farmer_376,City_122,Kerala
+Tomato,12700,902,Farmer_377,City_66,Tamil Nadu
+Turmeric,13089,450,Farmer_378,City_191,Chhattisgarh
+Cotton,10014,241,Farmer_379,City_200,Uttar Pradesh
+Sugarcane,8152,208,Farmer_380,City_4,Odisha
+Pulses,6882,958,Farmer_381,City_200,Sikkim
+Barley,6935,829,Farmer_382,City_40,Telangana
+Cotton,1693,668,Farmer_383,City_4,Maharashtra
+Maize,10029,997,Farmer_384,City_104,Odisha
+Soybean,12841,664,Farmer_385,City_69,Haryana
+Maize,10574,223,Farmer_386,City_8,Kerala
+Wheat,5797,663,Farmer_387,City_166,Chhattisgarh
+Banana,9238,526,Farmer_388,City_110,Nagaland
+Millets,11406,473,Farmer_389,City_2,Meghalaya
+Tea,13865,512,Farmer_390,City_13,Kerala
+Maize,13734,730,Farmer_391,City_28,Gujarat
+Jute,9551,659,Farmer_392,City_140,Sikkim
+Sugarcane,4272,742,Farmer_393,City_80,Kerala
+Mustard,9531,439,Farmer_394,City_133,Meghalaya
+Wheat,6035,276,Farmer_395,City_133,Chhattisgarh
+Coffee,8682,242,Farmer_396,City_156,Haryana
+Pulses,12949,144,Farmer_397,City_173,Gujarat
+Groundnut,3066,932,Farmer_398,City_32,Telangana
+Chilli,3563,549,Farmer_399,City_175,Nagaland
+Tea,11934,355,Farmer_400,City_168,Nagaland
+Cotton,2619,248,Farmer_401,City_120,Uttar Pradesh
+Banana,5225,198,Farmer_402,City_78,Uttarakhand
+Sugarcane,3540,911,Farmer_403,City_115,Mizoram
+Groundnut,1837,907,Farmer_404,City_33,Rajasthan
+Cotton,7975,402,Farmer_405,City_7,Karnataka
+Soybean,2851,719,Farmer_406,City_96,Rajasthan
+Onion,10502,947,Farmer_407,City_82,Bihar
+Cotton,9273,943,Farmer_408,City_126,Telangana
+Tomato,12969,739,Farmer_409,City_111,Andhra Pradesh
+Turmeric,13025,303,Farmer_410,City_61,Sikkim
+Jute,4192,717,Farmer_411,City_199,Tripura
+Banana,5409,767,Farmer_412,City_192,West Bengal
+Soybean,14930,748,Farmer_413,City_124,Maharashtra
+Cotton,11851,194,Farmer_414,City_149,West Bengal
+Coffee,4071,133,Farmer_415,City_12,Haryana
+Onion,13472,54,Farmer_416,City_176,Uttarakhand
+Tea,10495,146,Farmer_417,City_1,Bihar
+Sugarcane,7821,312,Farmer_418,City_74,Haryana
+Rice,2796,821,Farmer_419,City_97,Meghalaya
+Coffee,5582,233,Farmer_420,City_28,Haryana
+Groundnut,10528,817,Farmer_421,City_109,Manipur
+Pulses,9910,513,Farmer_422,City_113,Rajasthan
+Chilli,4613,643,Farmer_423,City_88,Tamil Nadu
+Barley,7353,934,Farmer_424,City_133,Bihar
+Maize,7506,193,Farmer_425,City_9,Manipur
+Rice,7021,871,Farmer_426,City_131,West Bengal
+Rice,5072,215,Farmer_427,City_139,Jharkhand
+Barley,4031,662,Farmer_428,City_27,Karnataka
+Wheat,3501,866,Farmer_429,City_123,Jharkhand
+Mustard,5116,947,Farmer_430,City_29,Goa
+Millets,3303,283,Farmer_431,City_40,Kerala
+Tomato,3810,317,Farmer_432,City_172,Tripura
+Banana,9357,796,Farmer_433,City_135,Manipur
+Groundnut,13983,167,Farmer_434,City_129,Odisha
+Turmeric,9336,553,Farmer_435,City_1,Tamil Nadu
+Cotton,10231,542,Farmer_436,City_96,Tamil Nadu
+Maize,9386,880,Farmer_437,City_187,Haryana
+Turmeric,6911,127,Farmer_438,City_80,Telangana
+Chilli,2856,640,Farmer_439,City_23,Punjab
+Onion,4270,849,Farmer_440,City_12,Bihar
+Coffee,13424,240,Farmer_441,City_90,Uttar Pradesh
+Chilli,9441,961,Farmer_442,City_137,Tripura
+Cotton,7368,868,Farmer_443,City_199,Sikkim
+Rice,6948,385,Farmer_444,City_158,Tamil Nadu
+Potato,5173,187,Farmer_445,City_179,Haryana
+Rice,12701,297,Farmer_446,City_186,Chhattisgarh
+Sugarcane,3271,63,Farmer_447,City_117,Assam
+Banana,12475,540,Farmer_448,City_23,Himachal Pradesh
+Turmeric,7335,725,Farmer_449,City_120,Manipur
+Chilli,10225,712,Farmer_450,City_51,Uttarakhand
+Wheat,6314,809,Farmer_451,City_154,Haryana
+Turmeric,8495,57,Farmer_452,City_167,Karnataka
+Soybean,7026,67,Farmer_453,City_165,Telangana
+Maize,6647,276,Farmer_454,City_149,Chhattisgarh
+Tea,5990,245,Farmer_455,City_122,Goa
+Barley,4143,185,Farmer_456,City_198,Odisha
+Groundnut,12494,243,Farmer_457,City_27,Gujarat
+Banana,7071,663,Farmer_458,City_35,Maharashtra
+Tea,9545,228,Farmer_459,City_94,Arunachal Pradesh
+Coffee,8194,955,Farmer_460,City_13,Mizoram
+Chilli,11395,849,Farmer_461,City_154,Chhattisgarh
+Mustard,9280,184,Farmer_462,City_79,Assam
+Wheat,8354,619,Farmer_463,City_95,Punjab
+Banana,6979,324,Farmer_464,City_118,Arunachal Pradesh
+Soybean,11097,862,Farmer_465,City_156,Bihar
+Wheat,9149,471,Farmer_466,City_104,Jharkhand
+Wheat,10247,476,Farmer_467,City_43,Punjab
+Banana,14539,185,Farmer_468,City_63,Goa
+Sugarcane,8279,308,Farmer_469,City_110,Chhattisgarh
+Coffee,7660,780,Farmer_470,City_63,Karnataka
+Wheat,13811,160,Farmer_471,City_191,Haryana
+Turmeric,13720,263,Farmer_472,City_159,Odisha
+Sugarcane,2987,641,Farmer_473,City_34,Mizoram
+Cotton,11830,681,Farmer_474,City_108,Goa
+Onion,14164,668,Farmer_475,City_10,Sikkim
+Turmeric,9165,112,Farmer_476,City_21,Nagaland
+Turmeric,13665,368,Farmer_477,City_37,Odisha
+Soybean,3241,741,Farmer_478,City_148,Arunachal Pradesh
+Groundnut,13902,266,Farmer_479,City_113,Bihar
+Chilli,12824,573,Farmer_480,City_152,Meghalaya
+Cotton,11755,710,Farmer_481,City_18,Madhya Pradesh
+Maize,3261,659,Farmer_482,City_89,Assam
+Coffee,5478,674,Farmer_483,City_119,Himachal Pradesh
+Millets,10751,535,Farmer_484,City_195,Arunachal Pradesh
+Tomato,5302,756,Farmer_485,City_95,West Bengal
+Potato,12765,492,Farmer_486,City_96,Assam
+Mustard,9098,584,Farmer_487,City_147,Uttarakhand
+Tea,7636,790,Farmer_488,City_45,Gujarat
+Wheat,14122,281,Farmer_489,City_69,Rajasthan
+Sugarcane,4513,187,Farmer_490,City_116,Jharkhand
+Mustard,9602,78,Farmer_491,City_127,Uttarakhand
+Tea,5443,588,Farmer_492,City_146,Goa
+Coffee,5562,285,Farmer_493,City_157,Uttar Pradesh
+Jute,13330,501,Farmer_494,City_47,Himachal Pradesh
+Wheat,4607,488,Farmer_495,City_175,West Bengal
+Tea,11786,734,Farmer_496,City_60,Jharkhand
+Tomato,8660,629,Farmer_497,City_90,Meghalaya
+Groundnut,12602,855,Farmer_498,City_96,Uttarakhand
+Onion,13364,412,Farmer_499,City_132,Kerala
+Potato,14870,639,Farmer_500,City_73,Telangana
+Jute,10444,653,Farmer_501,City_79,Karnataka
+Coffee,12479,935,Farmer_502,City_193,Rajasthan
+Millets,3550,308,Farmer_503,City_80,Haryana
+Mustard,7299,867,Farmer_504,City_196,Rajasthan
+Wheat,4025,77,Farmer_505,City_146,Punjab
+Soybean,9075,484,Farmer_506,City_168,Tripura
+Mustard,12204,559,Farmer_507,City_189,Maharashtra
+Mustard,5342,575,Farmer_508,City_30,Karnataka
+Cotton,7449,235,Farmer_509,City_168,West Bengal
+Pulses,14053,1000,Farmer_510,City_196,Nagaland
+Tea,10541,746,Farmer_511,City_11,Karnataka
+Wheat,9176,456,Farmer_512,City_176,Himachal Pradesh
+Tomato,2793,203,Farmer_513,City_61,West Bengal
+Wheat,14815,86,Farmer_514,City_105,Rajasthan
+Tea,10039,951,Farmer_515,City_109,Tamil Nadu
+Barley,13188,484,Farmer_516,City_87,Punjab
+Barley,4753,880,Farmer_517,City_18,Himachal Pradesh
+Mustard,13155,614,Farmer_518,City_150,Arunachal Pradesh
+Onion,4608,352,Farmer_519,City_46,Kerala
+Onion,3387,514,Farmer_520,City_163,Assam
+Mustard,4538,72,Farmer_521,City_10,Meghalaya
+Chilli,6931,261,Farmer_522,City_26,Maharashtra
+Maize,6349,430,Farmer_523,City_175,Arunachal Pradesh
+Barley,10020,601,Farmer_524,City_173,Nagaland
+Cotton,10986,498,Farmer_525,City_28,Uttarakhand
+Sugarcane,2807,699,Farmer_526,City_12,Meghalaya
+Wheat,12693,826,Farmer_527,City_144,Sikkim
+Onion,11483,134,Farmer_528,City_88,Karnataka
+Potato,3728,975,Farmer_529,City_21,Rajasthan
+Chilli,4822,203,Farmer_530,City_110,Bihar
+Barley,14082,783,Farmer_531,City_28,Assam
+Jute,3158,848,Farmer_532,City_150,Kerala
+Barley,7926,891,Farmer_533,City_104,Manipur
+Turmeric,10074,298,Farmer_534,City_191,Uttar Pradesh
+Tomato,2531,434,Farmer_535,City_98,Nagaland
+Rice,4925,739,Farmer_536,City_163,Madhya Pradesh
+Coffee,6295,911,Farmer_537,City_28,Bihar
+Coffee,12927,297,Farmer_538,City_89,Telangana
+Coffee,9880,986,Farmer_539,City_66,Assam
+Mustard,13844,537,Farmer_540,City_178,Kerala
+Cotton,4837,810,Farmer_541,City_39,Rajasthan
+Banana,8745,613,Farmer_542,City_62,Andhra Pradesh
+Soybean,12307,418,Farmer_543,City_45,Gujarat
+Maize,2676,488,Farmer_544,City_154,Telangana
+Potato,12925,54,Farmer_545,City_139,Arunachal Pradesh
+Tomato,2352,638,Farmer_546,City_190,Meghalaya
+Maize,14686,928,Farmer_547,City_79,Kerala
+Chilli,9730,315,Farmer_548,City_91,Odisha
+Groundnut,3572,706,Farmer_549,City_63,West Bengal
+Pulses,9563,613,Farmer_550,City_198,Maharashtra
+Groundnut,14283,710,Farmer_551,City_86,Andhra Pradesh
+Tea,8819,108,Farmer_552,City_109,Himachal Pradesh
+Sugarcane,5401,791,Farmer_553,City_117,Kerala
+Maize,3596,985,Farmer_554,City_146,Manipur
+Chilli,6261,408,Farmer_555,City_133,Jharkhand
+Tea,9333,432,Farmer_556,City_199,Punjab
+Potato,14252,914,Farmer_557,City_39,Kerala
+Potato,3937,595,Farmer_558,City_143,Chhattisgarh
+Groundnut,7885,487,Farmer_559,City_131,Bihar
+Wheat,13684,54,Farmer_560,City_130,Tamil Nadu
+Rice,14301,297,Farmer_561,City_118,Himachal Pradesh
+Chilli,14214,425,Farmer_562,City_167,Manipur
+Turmeric,4448,351,Farmer_563,City_61,Goa
+Tomato,8001,890,Farmer_564,City_119,Himachal Pradesh
+Wheat,6432,654,Farmer_565,City_75,Chhattisgarh
+Chilli,8326,538,Farmer_566,City_65,Assam
+Groundnut,9781,735,Farmer_567,City_127,Tamil Nadu
+Tea,5858,514,Farmer_568,City_4,Uttarakhand
+Wheat,1896,797,Farmer_569,City_192,Karnataka
+Turmeric,14373,834,Farmer_570,City_82,Meghalaya
+Sugarcane,11268,483,Farmer_571,City_192,Madhya Pradesh
+Rice,1596,127,Farmer_572,City_165,Maharashtra
+Potato,12268,696,Farmer_573,City_191,Punjab
+Soybean,6020,431,Farmer_574,City_48,Kerala
+Rice,6982,766,Farmer_575,City_114,Sikkim
+Banana,8936,421,Farmer_576,City_135,Uttarakhand
+Soybean,11412,476,Farmer_577,City_196,Uttarakhand
+Wheat,4771,289,Farmer_578,City_60,West Bengal
+Mustard,2329,563,Farmer_579,City_79,Meghalaya
+Banana,3331,190,Farmer_580,City_163,Karnataka
+Rice,14838,724,Farmer_581,City_81,Uttar Pradesh
+Mustard,7244,565,Farmer_582,City_140,Meghalaya
+Mustard,7299,772,Farmer_583,City_108,Madhya Pradesh
+Pulses,9594,519,Farmer_584,City_1,Jharkhand
+Mustard,3441,657,Farmer_585,City_4,Jharkhand
+Tea,5088,246,Farmer_586,City_181,Arunachal Pradesh
+Groundnut,4841,852,Farmer_587,City_71,Madhya Pradesh
+Rice,4881,919,Farmer_588,City_42,Maharashtra
+Onion,13686,925,Farmer_589,City_124,Tripura
+Onion,8551,943,Farmer_590,City_38,Arunachal Pradesh
+Rice,8931,381,Farmer_591,City_81,Goa
+Pulses,10464,591,Farmer_592,City_50,Manipur
+Cotton,6062,585,Farmer_593,City_47,Gujarat
+Chilli,8202,778,Farmer_594,City_99,Jharkhand
+Potato,1949,890,Farmer_595,City_156,Uttarakhand
+Mustard,2364,505,Farmer_596,City_3,Assam
+Tomato,5082,317,Farmer_597,City_91,Mizoram
+Potato,14517,243,Farmer_598,City_165,Jharkhand
+Cotton,4055,253,Farmer_599,City_151,Manipur
+Rice,2494,835,Farmer_600,City_56,Goa
+Millets,8701,381,Farmer_601,City_39,Arunachal Pradesh
+Jute,13788,854,Farmer_602,City_42,Meghalaya
+Potato,14489,626,Farmer_603,City_152,West Bengal
+Potato,4672,291,Farmer_604,City_127,Tripura
+Cotton,13449,945,Farmer_605,City_18,Maharashtra
+Mustard,8797,657,Farmer_606,City_31,Andhra Pradesh
+Potato,8898,199,Farmer_607,City_94,Arunachal Pradesh
+Barley,6935,567,Farmer_608,City_81,Mizoram
+Wheat,13777,889,Farmer_609,City_86,West Bengal
+Groundnut,1847,737,Farmer_610,City_47,Madhya Pradesh
+Coffee,9941,521,Farmer_611,City_65,Chhattisgarh
+Groundnut,9720,946,Farmer_612,City_155,Bihar
+Chilli,14703,174,Farmer_613,City_162,Tripura
+Pulses,5781,612,Farmer_614,City_29,Rajasthan
+Tea,3158,249,Farmer_615,City_175,Odisha
+Groundnut,5361,446,Farmer_616,City_59,Rajasthan
+Turmeric,8603,898,Farmer_617,City_71,Goa
+Onion,11746,790,Farmer_618,City_182,Rajasthan
+Tea,7424,941,Farmer_619,City_168,Meghalaya
+Coffee,13695,934,Farmer_620,City_86,West Bengal
+Millets,11869,102,Farmer_621,City_125,Jharkhand
+Maize,8657,580,Farmer_622,City_171,Maharashtra
+Tea,2192,188,Farmer_623,City_28,Meghalaya
+Jute,14747,346,Farmer_624,City_70,Gujarat
+Potato,11925,102,Farmer_625,City_33,Sikkim
+Barley,7339,612,Farmer_626,City_154,Tripura
+Chilli,13734,783,Farmer_627,City_11,Punjab
+Maize,14714,488,Farmer_628,City_132,Maharashtra
+Soybean,5592,796,Farmer_629,City_91,Uttarakhand
+Jute,2066,877,Farmer_630,City_147,Punjab
+Wheat,6902,222,Farmer_631,City_18,Meghalaya
+Millets,6825,904,Farmer_632,City_19,Rajasthan
+Tea,11903,385,Farmer_633,City_121,Uttar Pradesh
+Sugarcane,11307,549,Farmer_634,City_140,Himachal Pradesh
+Cotton,5650,437,Farmer_635,City_139,Mizoram
+Millets,9469,170,Farmer_636,City_183,Kerala
+Jute,6948,859,Farmer_637,City_13,Odisha
+Turmeric,12506,939,Farmer_638,City_152,Tripura
+Cotton,7031,533,Farmer_639,City_82,West Bengal
+Cotton,5827,690,Farmer_640,City_189,Karnataka
+Maize,4705,319,Farmer_641,City_44,Maharashtra
+Maize,14686,843,Farmer_642,City_7,Tamil Nadu
+Chilli,10210,127,Farmer_643,City_17,Madhya Pradesh
+Sugarcane,1645,508,Farmer_644,City_173,Uttar Pradesh
+Pulses,13688,750,Farmer_645,City_124,Arunachal Pradesh
+Banana,7682,343,Farmer_646,City_92,Maharashtra
+Chilli,12014,561,Farmer_647,City_176,Meghalaya
+Tomato,9245,513,Farmer_648,City_98,Odisha
+Tea,13090,519,Farmer_649,City_21,Haryana
+Cotton,5791,521,Farmer_650,City_29,Bihar
+Jute,2760,212,Farmer_651,City_181,Punjab
+Tomato,14164,796,Farmer_652,City_46,Madhya Pradesh
+Mustard,10164,543,Farmer_653,City_49,Punjab
+Soybean,13716,906,Farmer_654,City_55,Sikkim
+Millets,11801,534,Farmer_655,City_41,Mizoram
+Cotton,2802,493,Farmer_656,City_2,Telangana
+Banana,12135,149,Farmer_657,City_117,Telangana
+Pulses,11305,428,Farmer_658,City_125,Punjab
+Sugarcane,11898,816,Farmer_659,City_123,Gujarat
+Maize,12989,890,Farmer_660,City_83,Arunachal Pradesh
+Coffee,4079,408,Farmer_661,City_49,Tamil Nadu
+Potato,5818,64,Farmer_662,City_47,Arunachal Pradesh
+Chilli,7982,859,Farmer_663,City_113,Assam
+Groundnut,6152,851,Farmer_664,City_191,Odisha
+Sugarcane,1772,826,Farmer_665,City_66,West Bengal
+Jute,11810,690,Farmer_666,City_85,Bihar
+Potato,14351,944,Farmer_667,City_49,Tamil Nadu
+Tomato,11844,918,Farmer_668,City_17,Goa
+Maize,8592,639,Farmer_669,City_59,West Bengal
+Mustard,7891,578,Farmer_670,City_9,Arunachal Pradesh
+Turmeric,7704,954,Farmer_671,City_70,Andhra Pradesh
+Pulses,8316,100,Farmer_672,City_168,Sikkim
+Onion,13640,992,Farmer_673,City_133,Manipur
+Sugarcane,13513,170,Farmer_674,City_60,Madhya Pradesh
+Rice,1814,807,Farmer_675,City_196,Bihar
+Soybean,11323,497,Farmer_676,City_170,Meghalaya
+Soybean,11498,983,Farmer_677,City_141,Karnataka
+Tea,4179,478,Farmer_678,City_110,Kerala
+Sugarcane,10542,651,Farmer_679,City_73,Tripura
+Millets,6934,120,Farmer_680,City_57,Tripura
+Barley,3367,695,Farmer_681,City_65,Kerala
+Pulses,4173,297,Farmer_682,City_92,Uttarakhand
+Chilli,1930,109,Farmer_683,City_193,Tamil Nadu
+Jute,11052,822,Farmer_684,City_60,Haryana
+Mustard,4338,747,Farmer_685,City_47,Rajasthan
+Onion,13602,667,Farmer_686,City_137,Tamil Nadu
+Sugarcane,14989,67,Farmer_687,City_123,Rajasthan
+Soybean,10217,146,Farmer_688,City_53,Tripura
+Barley,3766,165,Farmer_689,City_76,Jharkhand
+Turmeric,8532,336,Farmer_690,City_196,Andhra Pradesh
+Sugarcane,7376,743,Farmer_691,City_10,Rajasthan
+Coffee,12738,132,Farmer_692,City_43,Jharkhand
+Mustard,5563,330,Farmer_693,City_181,Karnataka
+Sugarcane,6247,279,Farmer_694,City_65,Andhra Pradesh
+Maize,10474,483,Farmer_695,City_24,Rajasthan
+Rice,13245,460,Farmer_696,City_164,Uttarakhand
+Tomato,13436,848,Farmer_697,City_150,Nagaland
+Potato,10517,870,Farmer_698,City_49,Tripura
+Jute,3517,220,Farmer_699,City_10,Odisha
+Turmeric,7595,716,Farmer_700,City_2,Jharkhand
+Mustard,7501,491,Farmer_701,City_63,Jharkhand
+Mustard,5596,268,Farmer_702,City_141,Tamil Nadu
+Onion,9896,730,Farmer_703,City_13,Meghalaya
+Jute,12781,786,Farmer_704,City_51,Sikkim
+Barley,8166,494,Farmer_705,City_129,Mizoram
+Tomato,6462,52,Farmer_706,City_79,Tamil Nadu
+Banana,9608,985,Farmer_707,City_33,Tamil Nadu
+Banana,7843,613,Farmer_708,City_149,Uttarakhand
+Millets,2464,595,Farmer_709,City_105,Tripura
+Rice,1558,153,Farmer_710,City_179,Kerala
+Cotton,1788,280,Farmer_711,City_35,Himachal Pradesh
+Groundnut,9373,790,Farmer_712,City_23,Assam
+Chilli,7244,411,Farmer_713,City_123,Goa
+Chilli,5840,138,Farmer_714,City_190,Punjab
+Coffee,3032,300,Farmer_715,City_178,Andhra Pradesh
+Pulses,2442,566,Farmer_716,City_36,Nagaland
+Chilli,8825,286,Farmer_717,City_197,Tamil Nadu
+Sugarcane,4439,714,Farmer_718,City_197,Tripura
+Tea,1985,257,Farmer_719,City_135,Uttarakhand
+Banana,14339,606,Farmer_720,City_7,Bihar
+Potato,5053,664,Farmer_721,City_189,Rajasthan
+Wheat,9722,384,Farmer_722,City_19,Sikkim
+Millets,12692,212,Farmer_723,City_2,Madhya Pradesh
+Sugarcane,9364,990,Farmer_724,City_163,Odisha
+Millets,5937,178,Farmer_725,City_94,Rajasthan
+Onion,2390,591,Farmer_726,City_150,Sikkim
+Maize,2631,336,Farmer_727,City_6,Tamil Nadu
+Wheat,7422,407,Farmer_728,City_95,Manipur
+Tea,12131,358,Farmer_729,City_100,Himachal Pradesh
+Cotton,9223,163,Farmer_730,City_114,Nagaland
+Potato,2151,889,Farmer_731,City_199,Madhya Pradesh
+Maize,11549,813,Farmer_732,City_69,Maharashtra
+Wheat,2817,505,Farmer_733,City_88,West Bengal
+Chilli,3000,890,Farmer_734,City_147,Goa
+Tomato,11904,440,Farmer_735,City_149,West Bengal
+Turmeric,13413,703,Farmer_736,City_115,Goa
+Rice,10976,349,Farmer_737,City_170,Maharashtra
+Tomato,4293,627,Farmer_738,City_28,Jharkhand
+Sugarcane,5785,232,Farmer_739,City_33,Goa
+Turmeric,11194,177,Farmer_740,City_89,West Bengal
+Potato,10070,326,Farmer_741,City_52,Goa
+Rice,7717,562,Farmer_742,City_148,Bihar
+Onion,9290,682,Farmer_743,City_31,Jharkhand
+Tea,12882,605,Farmer_744,City_7,Chhattisgarh
+Pulses,12396,275,Farmer_745,City_1,Rajasthan
+Coffee,2547,632,Farmer_746,City_10,Meghalaya
+Potato,4372,549,Farmer_747,City_149,Chhattisgarh
+Tea,2755,116,Farmer_748,City_43,Andhra Pradesh
+Potato,6396,963,Farmer_749,City_115,Uttar Pradesh
+Cotton,7769,941,Farmer_750,City_150,Meghalaya
+Turmeric,14602,103,Farmer_751,City_76,Goa
+Chilli,8400,819,Farmer_752,City_19,Uttarakhand
+Soybean,5020,712,Farmer_753,City_197,Andhra Pradesh
+Millets,14921,670,Farmer_754,City_6,Nagaland
+Turmeric,12817,731,Farmer_755,City_9,Arunachal Pradesh
+Barley,14226,213,Farmer_756,City_174,Sikkim
+Maize,14218,251,Farmer_757,City_161,Kerala
+Tea,13235,639,Farmer_758,City_35,Himachal Pradesh
+Chilli,11392,357,Farmer_759,City_129,Meghalaya
+Millets,12847,96,Farmer_760,City_151,Uttarakhand
+Banana,4483,117,Farmer_761,City_117,Manipur
+Banana,13623,742,Farmer_762,City_135,Andhra Pradesh
+Maize,10464,395,Farmer_763,City_58,Arunachal Pradesh
+Pulses,5978,301,Farmer_764,City_15,Punjab
+Coffee,6400,112,Farmer_765,City_164,Telangana
+Millets,12312,360,Farmer_766,City_183,West Bengal
+Groundnut,7783,694,Farmer_767,City_193,Goa
+Barley,6805,657,Farmer_768,City_82,Meghalaya
+Maize,13053,906,Farmer_769,City_25,Haryana
+Cotton,2130,909,Farmer_770,City_129,Jharkhand
+Wheat,6696,720,Farmer_771,City_84,Bihar
+Barley,11604,369,Farmer_772,City_188,Kerala
+Banana,11229,257,Farmer_773,City_17,Meghalaya
+Mustard,13299,155,Farmer_774,City_52,Madhya Pradesh
+Sugarcane,3612,723,Farmer_775,City_111,Assam
+Mustard,14068,619,Farmer_776,City_184,Bihar
+Wheat,6462,966,Farmer_777,City_52,Uttarakhand
+Soybean,3701,154,Farmer_778,City_159,Tamil Nadu
+Turmeric,7772,240,Farmer_779,City_150,Assam
+Cotton,3870,907,Farmer_780,City_10,Goa
+Pulses,13412,123,Farmer_781,City_33,West Bengal
+Potato,5261,372,Farmer_782,City_198,Chhattisgarh
+Barley,13993,460,Farmer_783,City_36,Chhattisgarh
+Sugarcane,1524,712,Farmer_784,City_32,Uttar Pradesh
+Barley,4640,893,Farmer_785,City_118,Madhya Pradesh
+Coffee,2361,810,Farmer_786,City_52,Odisha
+Sugarcane,2640,712,Farmer_787,City_164,Haryana
+Coffee,1713,854,Farmer_788,City_46,Kerala
+Groundnut,10103,971,Farmer_789,City_194,Jharkhand
+Turmeric,14973,926,Farmer_790,City_163,Uttarakhand
+Chilli,6371,117,Farmer_791,City_42,Telangana
+Soybean,11251,557,Farmer_792,City_199,Maharashtra
+Mustard,8977,251,Farmer_793,City_21,Kerala
+Onion,10685,673,Farmer_794,City_30,Mizoram
+Cotton,5041,431,Farmer_795,City_29,Mizoram
+Sugarcane,13968,547,Farmer_796,City_139,Uttar Pradesh
+Tea,8565,159,Farmer_797,City_124,Tamil Nadu
+Soybean,2018,751,Farmer_798,City_99,Jharkhand
+Maize,4996,943,Farmer_799,City_198,Arunachal Pradesh
+Millets,13496,78,Farmer_800,City_8,Jharkhand
+Sugarcane,7826,465,Farmer_801,City_100,Rajasthan
+Potato,13784,83,Farmer_802,City_19,Bihar
+Soybean,13319,973,Farmer_803,City_107,Uttar Pradesh
+Sugarcane,3146,601,Farmer_804,City_187,Uttar Pradesh
+Sugarcane,2640,783,Farmer_805,City_184,Punjab
+Turmeric,2257,447,Farmer_806,City_136,Haryana
+Jute,6400,716,Farmer_807,City_70,Tripura
+Coffee,8491,360,Farmer_808,City_98,Mizoram
+Sugarcane,2439,402,Farmer_809,City_27,Rajasthan
+Jute,11722,356,Farmer_810,City_140,Manipur
+Soybean,3361,101,Farmer_811,City_170,Kerala
+Rice,1842,787,Farmer_812,City_47,Punjab
+Mustard,3236,933,Farmer_813,City_33,Nagaland
+Tea,10790,967,Farmer_814,City_46,Arunachal Pradesh
+Chilli,7998,358,Farmer_815,City_74,Arunachal Pradesh
+Soybean,10273,740,Farmer_816,City_158,Tripura
+Rice,5952,554,Farmer_817,City_131,Andhra Pradesh
+Barley,3711,379,Farmer_818,City_10,Jharkhand
+Potato,1561,81,Farmer_819,City_124,Assam
+Soybean,3660,421,Farmer_820,City_169,Haryana
+Chilli,3808,210,Farmer_821,City_52,Mizoram
+Mustard,14022,499,Farmer_822,City_91,Odisha
+Chilli,3663,581,Farmer_823,City_29,Jharkhand
+Groundnut,8918,361,Farmer_824,City_79,Nagaland
+Soybean,4299,358,Farmer_825,City_80,Kerala
+Tomato,4703,897,Farmer_826,City_154,Assam
+Tea,10794,257,Farmer_827,City_152,Sikkim
+Millets,4035,358,Farmer_828,City_176,Andhra Pradesh
+Rice,2516,956,Farmer_829,City_172,West Bengal
+Wheat,5510,668,Farmer_830,City_139,Kerala
+Soybean,10698,745,Farmer_831,City_180,Chhattisgarh
+Tomato,11678,762,Farmer_832,City_2,Manipur
+Tea,4158,659,Farmer_833,City_62,Uttarakhand
+Coffee,10928,128,Farmer_834,City_117,Tamil Nadu
+Tomato,12909,160,Farmer_835,City_81,Goa
+Groundnut,7311,948,Farmer_836,City_88,Tamil Nadu
+Cotton,6025,765,Farmer_837,City_54,Himachal Pradesh
+Soybean,5032,118,Farmer_838,City_118,Tripura
+Sugarcane,9577,157,Farmer_839,City_103,Himachal Pradesh
+Barley,4630,633,Farmer_840,City_109,Tripura
+Tomato,3700,254,Farmer_841,City_124,Himachal Pradesh
+Banana,12098,751,Farmer_842,City_138,Rajasthan
+Barley,11471,324,Farmer_843,City_102,Uttar Pradesh
+Chilli,11448,418,Farmer_844,City_196,Assam
+Turmeric,3945,171,Farmer_845,City_189,Gujarat
+Tomato,10924,962,Farmer_846,City_191,Tripura
+Banana,10147,624,Farmer_847,City_56,Andhra Pradesh
+Soybean,12533,153,Farmer_848,City_188,Madhya Pradesh
+Jute,5704,341,Farmer_849,City_9,Assam
+Soybean,6835,450,Farmer_850,City_167,Mizoram
+Chilli,13991,295,Farmer_851,City_83,Kerala
+Groundnut,3160,407,Farmer_852,City_176,Goa
+Tomato,5202,917,Farmer_853,City_186,Jharkhand
+Pulses,12727,775,Farmer_854,City_159,Kerala
+Banana,5639,131,Farmer_855,City_108,Kerala
+Jute,6124,935,Farmer_856,City_67,Maharashtra
+Sugarcane,14571,848,Farmer_857,City_11,Jharkhand
+Potato,2790,350,Farmer_858,City_74,Uttarakhand
+Tea,4197,235,Farmer_859,City_198,Chhattisgarh
+Tea,14026,873,Farmer_860,City_73,Arunachal Pradesh
+Millets,12651,423,Farmer_861,City_115,Uttarakhand
+Potato,1806,114,Farmer_862,City_173,Assam
+Tea,13768,759,Farmer_863,City_179,Bihar
+Pulses,6590,887,Farmer_864,City_2,Tripura
+Tea,13021,381,Farmer_865,City_85,Uttarakhand
+Coffee,5941,678,Farmer_866,City_154,Madhya Pradesh
+Rice,10282,200,Farmer_867,City_39,Kerala
+Soybean,3713,324,Farmer_868,City_131,Gujarat
+Barley,12858,288,Farmer_869,City_63,Haryana
+Mustard,1528,717,Farmer_870,City_189,Meghalaya
+Chilli,5950,121,Farmer_871,City_63,Rajasthan
+Tomato,5952,603,Farmer_872,City_172,Kerala
+Jute,9883,868,Farmer_873,City_128,Uttar Pradesh
+Groundnut,4118,616,Farmer_874,City_183,Tamil Nadu
+Cotton,1607,387,Farmer_875,City_147,Odisha
+Potato,5915,427,Farmer_876,City_3,Gujarat
+Rice,10510,655,Farmer_877,City_67,Bihar
+Tea,4833,280,Farmer_878,City_192,Punjab
+Potato,5104,585,Farmer_879,City_162,Jharkhand
+Tea,9272,729,Farmer_880,City_117,Punjab
+Soybean,5419,769,Farmer_881,City_132,Kerala
+Millets,9699,528,Farmer_882,City_23,Punjab
+Jute,4687,464,Farmer_883,City_85,Mizoram
+Maize,8753,689,Farmer_884,City_83,Rajasthan
+Rice,12033,431,Farmer_885,City_118,Arunachal Pradesh
+Cotton,14470,610,Farmer_886,City_10,Andhra Pradesh
+Chilli,3016,402,Farmer_887,City_119,Madhya Pradesh
+Banana,6934,601,Farmer_888,City_50,Karnataka
+Turmeric,2500,280,Farmer_889,City_141,Karnataka
+Jute,8626,414,Farmer_890,City_9,Nagaland
+Millets,5642,938,Farmer_891,City_178,Kerala
+Turmeric,14193,422,Farmer_892,City_58,Haryana
+Onion,14205,672,Farmer_893,City_9,Assam
+Groundnut,4919,914,Farmer_894,City_67,Jharkhand
+Coffee,4295,627,Farmer_895,City_102,Jharkhand
+Potato,1661,401,Farmer_896,City_126,Andhra Pradesh
+Maize,9098,866,Farmer_897,City_17,Chhattisgarh
+Coffee,13555,857,Farmer_898,City_41,Odisha
+Banana,1603,339,Farmer_899,City_165,Mizoram
+Cotton,14616,418,Farmer_900,City_90,Tamil Nadu
+Onion,3648,687,Farmer_901,City_199,Nagaland
+Millets,6165,311,Farmer_902,City_25,Andhra Pradesh
+Tea,7508,314,Farmer_903,City_145,Madhya Pradesh
+Rice,8399,307,Farmer_904,City_54,Uttarakhand
+Chilli,9859,764,Farmer_905,City_24,Bihar
+Groundnut,10084,469,Farmer_906,City_18,Chhattisgarh
+Onion,6515,223,Farmer_907,City_2,Bihar
+Banana,6144,380,Farmer_908,City_54,Odisha
+Maize,13810,538,Farmer_909,City_117,Goa
+Soybean,3167,774,Farmer_910,City_163,Andhra Pradesh
+Banana,11963,843,Farmer_911,City_97,Kerala
+Millets,12388,177,Farmer_912,City_105,Tamil Nadu
+Rice,1710,626,Farmer_913,City_139,Goa
+Rice,5855,634,Farmer_914,City_20,Goa
+Cotton,11378,909,Farmer_915,City_85,Karnataka
+Barley,6267,989,Farmer_916,City_136,Gujarat
+Banana,4088,141,Farmer_917,City_174,Karnataka
+Sugarcane,1843,649,Farmer_918,City_88,Jharkhand
+Rice,13040,912,Farmer_919,City_45,Karnataka
+Coffee,13716,785,Farmer_920,City_83,Tripura
+Groundnut,3634,955,Farmer_921,City_149,Maharashtra
+Rice,1835,175,Farmer_922,City_179,Jharkhand
+Tea,11296,593,Farmer_923,City_140,Manipur
+Soybean,1550,853,Farmer_924,City_161,Arunachal Pradesh
+Groundnut,9432,712,Farmer_925,City_128,Telangana
+Tea,1656,125,Farmer_926,City_64,Jharkhand
+Wheat,3634,195,Farmer_927,City_123,Karnataka
+Millets,10498,341,Farmer_928,City_30,Tamil Nadu
+Banana,4760,672,Farmer_929,City_181,Tripura
+Sugarcane,8303,191,Farmer_930,City_131,Jharkhand
+Maize,9367,149,Farmer_931,City_100,Madhya Pradesh
+Rice,4312,993,Farmer_932,City_160,Jharkhand
+Soybean,2806,734,Farmer_933,City_151,Nagaland
+Jute,6126,843,Farmer_934,City_184,Telangana
+Tea,10045,730,Farmer_935,City_184,Maharashtra
+Pulses,3776,653,Farmer_936,City_124,Manipur
+Pulses,13708,744,Farmer_937,City_137,Rajasthan
+Jute,7318,937,Farmer_938,City_49,Manipur
+Pulses,14259,733,Farmer_939,City_172,Rajasthan
+Groundnut,7748,307,Farmer_940,City_195,Punjab
+Soybean,3590,672,Farmer_941,City_60,Mizoram
+Turmeric,1994,640,Farmer_942,City_137,Meghalaya
+Soybean,12760,753,Farmer_943,City_21,Tripura
+Potato,7844,479,Farmer_944,City_20,Nagaland
+Onion,2504,805,Farmer_945,City_189,Bihar
+Pulses,12239,307,Farmer_946,City_12,Assam
+Soybean,3390,875,Farmer_947,City_120,Andhra Pradesh
+Tomato,2518,992,Farmer_948,City_148,Haryana
+Coffee,5420,943,Farmer_949,City_63,Andhra Pradesh
+Soybean,13042,380,Farmer_950,City_17,Madhya Pradesh
+Barley,7922,736,Farmer_951,City_142,Nagaland
+Turmeric,7989,891,Farmer_952,City_182,Odisha
+Coffee,13018,898,Farmer_953,City_168,Telangana
+Soybean,4906,418,Farmer_954,City_93,Haryana
+Turmeric,6834,72,Farmer_955,City_168,Assam
+Chilli,9501,728,Farmer_956,City_197,Madhya Pradesh
+Cotton,7374,160,Farmer_957,City_130,Karnataka
+Jute,4182,95,Farmer_958,City_10,Karnataka
+Chilli,5833,785,Farmer_959,City_2,Manipur
+Onion,2515,444,Farmer_960,City_37,Punjab
+Groundnut,12921,568,Farmer_961,City_155,Tamil Nadu
+Mustard,7463,93,Farmer_962,City_176,Nagaland
+Potato,12889,829,Farmer_963,City_153,Kerala
+Turmeric,5307,182,Farmer_964,City_95,Karnataka
+Maize,8117,558,Farmer_965,City_7,Chhattisgarh
+Jute,8357,709,Farmer_966,City_125,Manipur
+Wheat,14876,480,Farmer_967,City_136,Himachal Pradesh
+Wheat,4213,879,Farmer_968,City_97,Haryana
+Jute,11631,460,Farmer_969,City_99,Assam
+Millets,5592,57,Farmer_970,City_53,Uttar Pradesh
+Soybean,7796,301,Farmer_971,City_100,Rajasthan
+Pulses,14037,256,Farmer_972,City_110,Gujarat
+Sugarcane,4875,592,Farmer_973,City_103,Gujarat
+Tea,10530,842,Farmer_974,City_127,Punjab
+Groundnut,3245,643,Farmer_975,City_143,Manipur
+Potato,12870,854,Farmer_976,City_186,Andhra Pradesh
+Rice,4359,512,Farmer_977,City_140,Maharashtra
+Potato,4785,276,Farmer_978,City_77,Uttar Pradesh
+Pulses,2138,392,Farmer_979,City_93,Manipur
+Banana,13218,823,Farmer_980,City_49,Nagaland
+Tea,9833,271,Farmer_981,City_2,Tripura
+Groundnut,2268,207,Farmer_982,City_20,Manipur
+Millets,8435,499,Farmer_983,City_84,Uttar Pradesh
+Soybean,9914,580,Farmer_984,City_182,Andhra Pradesh
+Rice,4418,759,Farmer_985,City_37,Kerala
+Mustard,12313,277,Farmer_986,City_40,Gujarat
+Jute,2055,968,Farmer_987,City_181,Maharashtra
+Soybean,10575,70,Farmer_988,City_172,Nagaland
+Sugarcane,13598,525,Farmer_989,City_82,Sikkim
+Onion,14925,493,Farmer_990,City_32,Jharkhand
+Onion,11767,609,Farmer_991,City_67,Nagaland
+Jute,13231,258,Farmer_992,City_80,Assam
+Chilli,5259,704,Farmer_993,City_17,Maharashtra
+Rice,9371,396,Farmer_994,City_3,Gujarat
+Chilli,9285,957,Farmer_995,City_39,Gujarat
+Barley,9289,365,Farmer_996,City_199,Odisha
+Millets,3325,440,Farmer_997,City_197,Jharkhand
+Rice,1684,673,Farmer_998,City_46,West Bengal
+Chilli,4037,683,Farmer_999,City_64,Punjab
+Mustard,5252,228,Farmer_1000,City_157,West Bengal
+Turmeric,9226,263,Farmer_1001,City_185,Rajasthan
+Tea,3296,549,Farmer_1002,City_91,Arunachal Pradesh
+Coffee,5275,838,Farmer_1003,City_20,Arunachal Pradesh
+Turmeric,10076,603,Farmer_1004,City_70,Odisha
+Potato,5211,294,Farmer_1005,City_161,Tripura
+Soybean,3768,232,Farmer_1006,City_191,Mizoram
+Cotton,6594,462,Farmer_1007,City_15,Haryana
+Coffee,5077,592,Farmer_1008,City_171,Chhattisgarh
+Mustard,2030,971,Farmer_1009,City_44,Mizoram
+Rice,11149,54,Farmer_1010,City_135,Tamil Nadu
+Soybean,14189,358,Farmer_1011,City_149,Sikkim
+Tea,5935,976,Farmer_1012,City_157,Rajasthan
+Sugarcane,14241,325,Farmer_1013,City_87,Telangana
+Wheat,3938,781,Farmer_1014,City_177,Jharkhand
+Banana,8042,889,Farmer_1015,City_113,Uttarakhand
+Maize,9990,233,Farmer_1016,City_177,Uttar Pradesh
+Wheat,13648,663,Farmer_1017,City_124,Karnataka
+Tea,8492,628,Farmer_1018,City_31,Chhattisgarh
+Potato,12589,117,Farmer_1019,City_65,Andhra Pradesh
+Tomato,7757,536,Farmer_1020,City_142,Sikkim
+Wheat,11088,910,Farmer_1021,City_130,Gujarat
+Millets,9094,963,Farmer_1022,City_144,Assam
+Coffee,7006,303,Farmer_1023,City_94,Maharashtra
+Banana,4680,621,Farmer_1024,City_71,Bihar
+Maize,8334,177,Farmer_1025,City_64,Manipur
+Chilli,8898,321,Farmer_1026,City_3,Bihar
+Tea,4646,63,Farmer_1027,City_94,Maharashtra
+Banana,4775,211,Farmer_1028,City_56,Mizoram
+Barley,9960,319,Farmer_1029,City_15,Rajasthan
+Groundnut,12592,504,Farmer_1030,City_189,Karnataka
+Mustard,7281,336,Farmer_1031,City_115,Tripura
+Maize,2743,118,Farmer_1032,City_121,Manipur
+Groundnut,4004,261,Farmer_1033,City_179,Rajasthan
+Coffee,4966,238,Farmer_1034,City_108,Rajasthan
+Millets,13298,116,Farmer_1035,City_89,Chhattisgarh
+Jute,12903,793,Farmer_1036,City_142,Punjab
+Pulses,8005,918,Farmer_1037,City_122,Goa
+Jute,12915,987,Farmer_1038,City_59,Himachal Pradesh
+Tea,6421,478,Farmer_1039,City_11,Chhattisgarh
+Tea,13836,602,Farmer_1040,City_21,Kerala
+Mustard,14560,482,Farmer_1041,City_154,Maharashtra
+Millets,9976,755,Farmer_1042,City_151,Rajasthan
+Chilli,10256,232,Farmer_1043,City_94,Mizoram
+Pulses,9497,539,Farmer_1044,City_18,Punjab
+Groundnut,3716,363,Farmer_1045,City_148,Goa
+Rice,9216,117,Farmer_1046,City_148,Sikkim
+Cotton,11185,66,Farmer_1047,City_190,Assam
+Coffee,3058,349,Farmer_1048,City_98,Andhra Pradesh
+Chilli,8306,311,Farmer_1049,City_190,Sikkim
+Sugarcane,8872,954,Farmer_1050,City_90,Kerala
+Pulses,5065,944,Farmer_1051,City_43,Tamil Nadu
+Onion,8284,381,Farmer_1052,City_143,Jharkhand
+Groundnut,2929,848,Farmer_1053,City_114,Bihar
+Rice,10212,554,Farmer_1054,City_195,Jharkhand
+Sugarcane,7029,363,Farmer_1055,City_130,Uttarakhand
+Cotton,7125,118,Farmer_1056,City_41,Goa
+Tomato,6741,935,Farmer_1057,City_45,Karnataka
+Tea,6466,412,Farmer_1058,City_19,Goa
+Turmeric,7763,325,Farmer_1059,City_120,Chhattisgarh
+Tea,8242,889,Farmer_1060,City_100,Gujarat
+Soybean,10338,304,Farmer_1061,City_26,Mizoram
+Turmeric,8119,299,Farmer_1062,City_187,Himachal Pradesh
+Millets,12632,722,Farmer_1063,City_20,Punjab
+Groundnut,1780,285,Farmer_1064,City_106,Meghalaya
+Barley,12140,149,Farmer_1065,City_153,Punjab
+Maize,11125,701,Farmer_1066,City_162,Tripura
+Groundnut,12463,443,Farmer_1067,City_125,Andhra Pradesh
+Coffee,2207,949,Farmer_1068,City_101,Tamil Nadu
+Banana,8017,743,Farmer_1069,City_137,Odisha
+Tea,11702,611,Farmer_1070,City_119,Jharkhand
+Sugarcane,3096,146,Farmer_1071,City_12,Bihar
+Onion,4373,505,Farmer_1072,City_47,Jharkhand
+Groundnut,11579,838,Farmer_1073,City_58,Bihar
+Barley,1549,490,Farmer_1074,City_168,Goa
+Turmeric,3869,341,Farmer_1075,City_99,Sikkim
+Groundnut,4949,831,Farmer_1076,City_112,Odisha
+Mustard,7704,246,Farmer_1077,City_190,Rajasthan
+Sugarcane,13668,814,Farmer_1078,City_149,Kerala
+Potato,4469,161,Farmer_1079,City_136,Goa
+Millets,6350,710,Farmer_1080,City_55,West Bengal
+Rice,13589,227,Farmer_1081,City_5,Himachal Pradesh
+Millets,13625,965,Farmer_1082,City_161,Chhattisgarh
+Rice,14810,392,Farmer_1083,City_39,Karnataka
+Wheat,14805,536,Farmer_1084,City_37,Karnataka
+Millets,9755,355,Farmer_1085,City_61,Gujarat
+Banana,11556,308,Farmer_1086,City_7,Haryana
+Millets,6966,157,Farmer_1087,City_144,Karnataka
+Turmeric,6188,683,Farmer_1088,City_41,Punjab
+Sugarcane,6567,408,Farmer_1089,City_90,Rajasthan
+Millets,6742,579,Farmer_1090,City_88,Andhra Pradesh
+Cotton,4944,214,Farmer_1091,City_199,Andhra Pradesh
+Chilli,6682,430,Farmer_1092,City_117,Gujarat
+Onion,5021,167,Farmer_1093,City_89,Kerala
+Rice,9185,653,Farmer_1094,City_80,Odisha
+Maize,4383,514,Farmer_1095,City_27,Jharkhand
+Potato,1702,412,Farmer_1096,City_74,Sikkim
+Maize,5420,544,Farmer_1097,City_197,Jharkhand
+Jute,12012,663,Farmer_1098,City_98,Kerala
+Cotton,7154,920,Farmer_1099,City_67,Uttarakhand
+Potato,5649,360,Farmer_1100,City_106,Maharashtra
+Mustard,6167,515,Farmer_1101,City_110,Uttarakhand
+Coffee,5839,911,Farmer_1102,City_149,Karnataka
+Coffee,1514,958,Farmer_1103,City_23,Jharkhand
+Soybean,5479,75,Farmer_1104,City_94,Sikkim
+Banana,4297,185,Farmer_1105,City_199,Madhya Pradesh
+Sugarcane,8054,371,Farmer_1106,City_200,Karnataka
+Potato,13558,192,Farmer_1107,City_58,Chhattisgarh
+Turmeric,11247,251,Farmer_1108,City_157,Haryana
+Millets,5575,169,Farmer_1109,City_181,West Bengal
+Sugarcane,13516,536,Farmer_1110,City_38,Bihar
+Soybean,11110,860,Farmer_1111,City_32,Tripura
+Tomato,4236,599,Farmer_1112,City_17,Uttarakhand
+Sugarcane,3939,984,Farmer_1113,City_150,Himachal Pradesh
+Potato,3924,59,Farmer_1114,City_45,Assam
+Pulses,6248,82,Farmer_1115,City_44,Uttarakhand
+Coffee,13388,342,Farmer_1116,City_193,Maharashtra
+Wheat,2716,877,Farmer_1117,City_89,Punjab
+Banana,9486,625,Farmer_1118,City_66,Sikkim
+Barley,2388,132,Farmer_1119,City_14,Uttarakhand
+Mustard,3907,117,Farmer_1120,City_159,Assam
+Coffee,14665,553,Farmer_1121,City_186,Punjab
+Tomato,4379,987,Farmer_1122,City_4,Chhattisgarh
+Maize,1551,558,Farmer_1123,City_79,Punjab
+Maize,4013,975,Farmer_1124,City_151,Jharkhand
+Barley,8081,504,Farmer_1125,City_61,Assam
+Barley,6130,396,Farmer_1126,City_13,Mizoram
+Potato,6655,333,Farmer_1127,City_47,Andhra Pradesh
+Millets,5741,834,Farmer_1128,City_156,Tamil Nadu
+Tomato,14330,171,Farmer_1129,City_105,Sikkim
+Rice,6771,366,Farmer_1130,City_44,Arunachal Pradesh
+Tomato,1797,194,Farmer_1131,City_67,Chhattisgarh
+Wheat,13295,236,Farmer_1132,City_105,Meghalaya
+Groundnut,11895,81,Farmer_1133,City_187,Madhya Pradesh
+Sugarcane,8568,365,Farmer_1134,City_160,Meghalaya
+Millets,7206,898,Farmer_1135,City_174,Nagaland
+Barley,10849,209,Farmer_1136,City_101,Jharkhand
+Barley,11918,521,Farmer_1137,City_16,Sikkim
+Mustard,12814,181,Farmer_1138,City_99,Rajasthan
+Potato,14880,77,Farmer_1139,City_147,Mizoram
+Banana,12894,383,Farmer_1140,City_111,Kerala
+Soybean,10580,103,Farmer_1141,City_200,Andhra Pradesh
+Potato,12030,978,Farmer_1142,City_114,Mizoram
+Turmeric,7436,88,Farmer_1143,City_124,Uttarakhand
+Pulses,3530,420,Farmer_1144,City_22,Madhya Pradesh
+Tomato,13617,676,Farmer_1145,City_160,Telangana
+Jute,3588,934,Farmer_1146,City_86,West Bengal
+Wheat,14668,455,Farmer_1147,City_70,Tripura
+Barley,9064,133,Farmer_1148,City_177,Rajasthan
+Tomato,11971,943,Farmer_1149,City_111,Uttar Pradesh
+Tomato,7549,438,Farmer_1150,City_124,Telangana
+Potato,1891,903,Farmer_1151,City_48,Arunachal Pradesh
+Tomato,3274,793,Farmer_1152,City_168,Arunachal Pradesh
+Rice,12679,736,Farmer_1153,City_24,Meghalaya
+Banana,5015,70,Farmer_1154,City_15,Kerala
+Tomato,3482,717,Farmer_1155,City_153,Tamil Nadu
+Potato,9950,145,Farmer_1156,City_180,Mizoram
+Rice,1882,389,Farmer_1157,City_128,Telangana
+Jute,11699,207,Farmer_1158,City_199,Arunachal Pradesh
+Millets,14402,186,Farmer_1159,City_39,Kerala
+Sugarcane,1642,660,Farmer_1160,City_144,Jharkhand
+Jute,6027,76,Farmer_1161,City_189,Kerala
+Pulses,5456,702,Farmer_1162,City_180,Andhra Pradesh
+Tea,8354,617,Farmer_1163,City_159,Manipur
+Tomato,14461,947,Farmer_1164,City_40,Andhra Pradesh
+Turmeric,4696,573,Farmer_1165,City_65,Gujarat
+Barley,7975,546,Farmer_1166,City_174,Uttarakhand
+Chilli,10042,685,Farmer_1167,City_111,Kerala
+Rice,14909,120,Farmer_1168,City_127,Kerala
+Tea,4658,704,Farmer_1169,City_175,Rajasthan
+Jute,11043,401,Farmer_1170,City_171,Karnataka
+Turmeric,2344,428,Farmer_1171,City_62,Maharashtra
+Mustard,2933,95,Farmer_1172,City_145,Madhya Pradesh
+Onion,13361,943,Farmer_1173,City_188,Madhya Pradesh
+Rice,13484,410,Farmer_1174,City_84,Meghalaya
+Barley,4871,500,Farmer_1175,City_25,Andhra Pradesh
+Coffee,14492,277,Farmer_1176,City_120,Punjab
+Cotton,8614,467,Farmer_1177,City_23,Arunachal Pradesh
+Potato,10819,238,Farmer_1178,City_54,Arunachal Pradesh
+Onion,13360,610,Farmer_1179,City_52,Haryana
+Jute,5792,521,Farmer_1180,City_69,Manipur
+Soybean,13307,797,Farmer_1181,City_146,Jharkhand
+Millets,4233,736,Farmer_1182,City_32,West Bengal
+Jute,2980,110,Farmer_1183,City_198,Goa
+Rice,2210,416,Farmer_1184,City_54,Madhya Pradesh
+Sugarcane,4669,807,Farmer_1185,City_80,Assam
+Cotton,14434,882,Farmer_1186,City_174,Assam
+Potato,13297,789,Farmer_1187,City_97,Sikkim
+Soybean,3878,420,Farmer_1188,City_54,Himachal Pradesh
+Soybean,14004,472,Farmer_1189,City_33,Maharashtra
+Onion,6857,200,Farmer_1190,City_110,Arunachal Pradesh
+Banana,6893,709,Farmer_1191,City_125,Andhra Pradesh
+Millets,8635,986,Farmer_1192,City_150,Mizoram
+Maize,12033,779,Farmer_1193,City_34,Maharashtra
+Mustard,5596,583,Farmer_1194,City_199,West Bengal
+Chilli,6206,870,Farmer_1195,City_88,Odisha
+Maize,1572,463,Farmer_1196,City_48,Sikkim
+Banana,7977,452,Farmer_1197,City_162,Tamil Nadu
+Maize,11057,985,Farmer_1198,City_33,Chhattisgarh
+Coffee,12757,361,Farmer_1199,City_159,Uttarakhand
+Soybean,13972,776,Farmer_1200,City_24,Uttarakhand
+Sugarcane,8281,705,Farmer_1201,City_121,Assam
+Coffee,4229,704,Farmer_1202,City_63,Punjab
+Maize,12227,620,Farmer_1203,City_67,Tamil Nadu
+Potato,7602,73,Farmer_1204,City_195,Chhattisgarh
+Banana,13621,843,Farmer_1205,City_77,Kerala
+Tomato,12778,521,Farmer_1206,City_139,Kerala
+Soybean,8497,57,Farmer_1207,City_15,Himachal Pradesh
+Rice,14634,887,Farmer_1208,City_131,Kerala
+Turmeric,1869,175,Farmer_1209,City_125,Tripura
+Cotton,10961,694,Farmer_1210,City_12,Meghalaya
+Maize,14113,685,Farmer_1211,City_131,Assam
+Sugarcane,6470,767,Farmer_1212,City_165,Manipur
+Maize,7119,698,Farmer_1213,City_181,West Bengal
+Chilli,10408,372,Farmer_1214,City_124,Odisha
+Tomato,8627,232,Farmer_1215,City_131,Haryana
+Pulses,2114,351,Farmer_1216,City_111,Tripura
+Chilli,8608,282,Farmer_1217,City_71,Telangana
+Turmeric,7364,78,Farmer_1218,City_111,Odisha
+Turmeric,1895,304,Farmer_1219,City_88,Himachal Pradesh
+Coffee,4493,651,Farmer_1220,City_168,Jharkhand
+Coffee,14357,132,Farmer_1221,City_187,Chhattisgarh
+Groundnut,5454,596,Farmer_1222,City_138,Uttar Pradesh
+Millets,14279,394,Farmer_1223,City_14,Karnataka
+Turmeric,3248,640,Farmer_1224,City_2,Arunachal Pradesh
+Sugarcane,6325,381,Farmer_1225,City_193,Nagaland
+Mustard,8465,974,Farmer_1226,City_64,Meghalaya
+Maize,1546,970,Farmer_1227,City_53,Uttarakhand
+Millets,8424,364,Farmer_1228,City_57,Madhya Pradesh
+Potato,5439,319,Farmer_1229,City_131,Jharkhand
+Banana,2035,516,Farmer_1230,City_48,Haryana
+Tea,2049,97,Farmer_1231,City_114,Manipur
+Mustard,8838,530,Farmer_1232,City_71,Tripura
+Banana,13021,440,Farmer_1233,City_75,Madhya Pradesh
+Maize,1863,738,Farmer_1234,City_137,Kerala
+Potato,7419,437,Farmer_1235,City_67,Kerala
+Mustard,12433,134,Farmer_1236,City_55,Maharashtra
+Jute,14056,587,Farmer_1237,City_93,Himachal Pradesh
+Banana,12907,320,Farmer_1238,City_136,Bihar
+Tomato,7141,228,Farmer_1239,City_14,Haryana
+Sugarcane,12240,461,Farmer_1240,City_81,Kerala
+Mustard,13258,157,Farmer_1241,City_136,Mizoram
+Banana,10830,182,Farmer_1242,City_17,Goa
+Sugarcane,5478,372,Farmer_1243,City_182,Assam
+Mustard,5994,616,Farmer_1244,City_177,Punjab
+Cotton,8147,487,Farmer_1245,City_39,West Bengal
+Turmeric,11774,104,Farmer_1246,City_157,Uttarakhand
+Sugarcane,2707,703,Farmer_1247,City_174,Andhra Pradesh
+Jute,6992,169,Farmer_1248,City_113,Chhattisgarh
+Millets,7650,688,Farmer_1249,City_38,Nagaland
+Jute,12121,363,Farmer_1250,City_175,Goa
+Mustard,14261,955,Farmer_1251,City_41,Rajasthan
+Rice,4314,533,Farmer_1252,City_108,Karnataka
+Banana,10256,133,Farmer_1253,City_185,Sikkim
+Chilli,13034,765,Farmer_1254,City_56,Tripura
+Turmeric,10196,703,Farmer_1255,City_17,Haryana
+Banana,5156,437,Farmer_1256,City_16,Sikkim
+Maize,6662,245,Farmer_1257,City_180,Tamil Nadu
+Barley,12571,533,Farmer_1258,City_19,Goa
+Pulses,3407,920,Farmer_1259,City_2,Madhya Pradesh
+Cotton,5667,585,Farmer_1260,City_62,Nagaland
+Turmeric,8049,417,Farmer_1261,City_170,Chhattisgarh
+Mustard,4713,121,Farmer_1262,City_83,Karnataka
+Potato,7965,234,Farmer_1263,City_30,Haryana
+Jute,4963,460,Farmer_1264,City_127,Arunachal Pradesh
+Barley,3180,783,Farmer_1265,City_107,Himachal Pradesh
+Jute,11105,485,Farmer_1266,City_25,Uttarakhand
+Banana,4873,274,Farmer_1267,City_87,Arunachal Pradesh
+Chilli,3423,888,Farmer_1268,City_136,Madhya Pradesh
+Pulses,2066,727,Farmer_1269,City_105,Assam
+Wheat,6872,63,Farmer_1270,City_97,Andhra Pradesh
+Coffee,14124,419,Farmer_1271,City_58,Bihar
+Banana,14012,441,Farmer_1272,City_162,Kerala
+Cotton,10937,235,Farmer_1273,City_60,West Bengal
+Cotton,7167,279,Farmer_1274,City_31,Bihar
+Tomato,13742,258,Farmer_1275,City_52,Manipur
+Tomato,9752,74,Farmer_1276,City_1,Madhya Pradesh
+Banana,12877,349,Farmer_1277,City_14,West Bengal
+Tea,1808,841,Farmer_1278,City_76,Meghalaya
+Chilli,14348,627,Farmer_1279,City_130,Arunachal Pradesh
+Tea,7290,342,Farmer_1280,City_196,Tripura
+Sugarcane,3418,250,Farmer_1281,City_78,Sikkim
+Sugarcane,6686,390,Farmer_1282,City_73,Punjab
+Pulses,11096,288,Farmer_1283,City_84,Nagaland
+Tomato,14707,235,Farmer_1284,City_177,Kerala
+Rice,10379,387,Farmer_1285,City_37,Madhya Pradesh
+Tea,14610,738,Farmer_1286,City_160,Tripura
+Soybean,6884,510,Farmer_1287,City_117,Tamil Nadu
+Cotton,2612,570,Farmer_1288,City_180,Haryana
+Wheat,7313,628,Farmer_1289,City_139,West Bengal
+Millets,7791,203,Farmer_1290,City_194,Nagaland
+Rice,9545,678,Farmer_1291,City_179,Kerala
+Onion,2104,904,Farmer_1292,City_96,Karnataka
+Pulses,3017,934,Farmer_1293,City_21,Rajasthan
+Mustard,14444,606,Farmer_1294,City_19,Kerala
+Coffee,14263,273,Farmer_1295,City_121,Chhattisgarh
+Turmeric,9985,681,Farmer_1296,City_134,Arunachal Pradesh
+Rice,14200,308,Farmer_1297,City_158,Tripura
+Pulses,3817,291,Farmer_1298,City_109,Meghalaya
+Turmeric,1524,131,Farmer_1299,City_91,Andhra Pradesh
+Groundnut,7625,206,Farmer_1300,City_191,Odisha
+Soybean,2521,963,Farmer_1301,City_52,Tamil Nadu
+Tea,12635,534,Farmer_1302,City_113,Jharkhand
+Coffee,12149,755,Farmer_1303,City_43,Sikkim
+Potato,14097,807,Farmer_1304,City_183,Sikkim
+Sugarcane,9628,914,Farmer_1305,City_61,Maharashtra
+Pulses,12312,896,Farmer_1306,City_174,Rajasthan
+Jute,2424,708,Farmer_1307,City_85,Assam
+Turmeric,2157,800,Farmer_1308,City_28,Odisha
+Tomato,3244,577,Farmer_1309,City_48,Telangana
+Mustard,9687,505,Farmer_1310,City_28,Uttar Pradesh
+Tea,13040,682,Farmer_1311,City_94,Rajasthan
+Turmeric,7915,420,Farmer_1312,City_31,Telangana
+Turmeric,11400,552,Farmer_1313,City_142,Haryana
+Tea,2046,428,Farmer_1314,City_36,Manipur
+Chilli,14536,443,Farmer_1315,City_86,Tripura
+Cotton,9745,134,Farmer_1316,City_83,Haryana
+Tomato,2643,452,Farmer_1317,City_107,Mizoram
+Barley,5225,597,Farmer_1318,City_39,Goa
+Pulses,13820,402,Farmer_1319,City_119,Chhattisgarh
+Groundnut,4392,784,Farmer_1320,City_160,Arunachal Pradesh
+Tea,2849,370,Farmer_1321,City_61,Madhya Pradesh
+Chilli,9088,790,Farmer_1322,City_144,Jharkhand
+Onion,13679,721,Farmer_1323,City_194,Tamil Nadu
+Turmeric,5768,82,Farmer_1324,City_83,Goa
+Soybean,13191,650,Farmer_1325,City_140,Kerala
+Chilli,12845,240,Farmer_1326,City_138,Goa
+Banana,14883,530,Farmer_1327,City_127,Punjab
+Chilli,4685,859,Farmer_1328,City_131,Madhya Pradesh
+Soybean,5396,87,Farmer_1329,City_178,Himachal Pradesh
+Turmeric,13983,306,Farmer_1330,City_180,Odisha
+Tomato,1996,853,Farmer_1331,City_52,Kerala
+Pulses,12754,738,Farmer_1332,City_139,Andhra Pradesh
+Sugarcane,2429,165,Farmer_1333,City_53,Madhya Pradesh
+Potato,1744,885,Farmer_1334,City_179,Uttar Pradesh
+Cotton,11704,928,Farmer_1335,City_161,Punjab
+Barley,10912,321,Farmer_1336,City_29,Nagaland
+Turmeric,7285,636,Farmer_1337,City_190,Andhra Pradesh
+Sugarcane,13898,948,Farmer_1338,City_84,West Bengal
+Groundnut,9832,275,Farmer_1339,City_30,Goa
+Potato,6961,624,Farmer_1340,City_132,Himachal Pradesh
+Tomato,5851,125,Farmer_1341,City_157,Himachal Pradesh
+Groundnut,13564,628,Farmer_1342,City_101,West Bengal
+Rice,14460,764,Farmer_1343,City_95,Chhattisgarh
+Potato,7799,224,Farmer_1344,City_123,Haryana
+Millets,3655,783,Farmer_1345,City_12,Tamil Nadu
+Wheat,2627,498,Farmer_1346,City_37,Sikkim
+Chilli,2795,965,Farmer_1347,City_11,Arunachal Pradesh
+Sugarcane,6845,831,Farmer_1348,City_125,Odisha
+Pulses,11229,468,Farmer_1349,City_193,Rajasthan
+Tomato,4612,485,Farmer_1350,City_17,Bihar
+Barley,8097,383,Farmer_1351,City_97,Nagaland
+Groundnut,14916,955,Farmer_1352,City_163,Haryana
+Sugarcane,11008,590,Farmer_1353,City_107,Meghalaya
+Groundnut,10940,57,Farmer_1354,City_193,Chhattisgarh
+Jute,10947,930,Farmer_1355,City_19,Odisha
+Rice,3032,162,Farmer_1356,City_155,Karnataka
+Coffee,2535,757,Farmer_1357,City_189,Andhra Pradesh
+Jute,10267,476,Farmer_1358,City_149,Bihar
+Tomato,13704,367,Farmer_1359,City_31,Nagaland
+Coffee,4773,179,Farmer_1360,City_13,West Bengal
+Jute,11541,614,Farmer_1361,City_64,Himachal Pradesh
+Soybean,11149,903,Farmer_1362,City_168,Maharashtra
+Coffee,1867,392,Farmer_1363,City_29,Uttar Pradesh
+Sugarcane,2013,552,Farmer_1364,City_24,Sikkim
+Banana,6936,484,Farmer_1365,City_39,Goa
+Barley,9488,271,Farmer_1366,City_89,Tripura
+Groundnut,12353,318,Farmer_1367,City_22,Meghalaya
+Barley,10411,770,Farmer_1368,City_103,Goa
+Wheat,9917,227,Farmer_1369,City_195,Haryana
+Cotton,5402,285,Farmer_1370,City_59,Telangana
+Chilli,14691,116,Farmer_1371,City_34,Chhattisgarh
+Groundnut,3772,531,Farmer_1372,City_12,Jharkhand
+Jute,4918,563,Farmer_1373,City_35,Chhattisgarh
+Banana,11881,543,Farmer_1374,City_74,Telangana
+Millets,5596,906,Farmer_1375,City_200,Telangana
+Rice,9084,143,Farmer_1376,City_91,West Bengal
+Sugarcane,12342,334,Farmer_1377,City_91,Odisha
+Tea,3810,811,Farmer_1378,City_157,Karnataka
+Tea,12510,984,Farmer_1379,City_183,Karnataka
+Tomato,4955,962,Farmer_1380,City_107,Haryana
+Maize,13763,185,Farmer_1381,City_114,Meghalaya
+Wheat,8987,677,Farmer_1382,City_15,Himachal Pradesh
+Maize,4644,760,Farmer_1383,City_114,Karnataka
+Potato,10362,409,Farmer_1384,City_1,Goa
+Pulses,9056,228,Farmer_1385,City_162,Andhra Pradesh
+Millets,3974,663,Farmer_1386,City_11,Karnataka
+Jute,12492,350,Farmer_1387,City_110,Tamil Nadu
+Groundnut,3727,513,Farmer_1388,City_77,Uttarakhand
+Sugarcane,5863,862,Farmer_1389,City_189,Manipur
+Soybean,7695,258,Farmer_1390,City_92,Tamil Nadu
+Coffee,4881,833,Farmer_1391,City_173,Maharashtra
+Rice,5929,577,Farmer_1392,City_167,Madhya Pradesh
+Millets,14146,681,Farmer_1393,City_132,Telangana
+Potato,11135,206,Farmer_1394,City_37,Punjab
+Maize,12920,368,Farmer_1395,City_141,Punjab
+Chilli,11286,901,Farmer_1396,City_78,Bihar
+Turmeric,4239,537,Farmer_1397,City_173,Manipur
+Rice,14640,516,Farmer_1398,City_19,Punjab
+Tomato,8809,419,Farmer_1399,City_59,Tripura
+Onion,12068,824,Farmer_1400,City_58,Telangana
+Pulses,11001,409,Farmer_1401,City_184,Telangana
+Cotton,1945,552,Farmer_1402,City_33,Mizoram
+Barley,2877,790,Farmer_1403,City_148,Madhya Pradesh
+Chilli,14708,435,Farmer_1404,City_108,Madhya Pradesh
+Tomato,14044,190,Farmer_1405,City_177,Haryana
+Maize,6690,750,Farmer_1406,City_81,Jharkhand
+Tomato,10054,725,Farmer_1407,City_53,Maharashtra
+Rice,3448,101,Farmer_1408,City_26,Rajasthan
+Millets,10193,813,Farmer_1409,City_118,Nagaland
+Turmeric,14318,938,Farmer_1410,City_199,Jharkhand
+Coffee,1515,951,Farmer_1411,City_74,Haryana
+Maize,13049,367,Farmer_1412,City_125,Arunachal Pradesh
+Cotton,13225,509,Farmer_1413,City_192,Rajasthan
+Wheat,11548,165,Farmer_1414,City_94,Meghalaya
+Mustard,3912,662,Farmer_1415,City_110,Gujarat
+Barley,2622,225,Farmer_1416,City_100,Karnataka
+Barley,5878,75,Farmer_1417,City_27,Haryana
+Barley,14057,60,Farmer_1418,City_26,Jharkhand
+Mustard,12245,694,Farmer_1419,City_19,Telangana
+Potato,10276,895,Farmer_1420,City_103,Jharkhand
+Mustard,13187,443,Farmer_1421,City_133,Uttarakhand
+Pulses,6157,85,Farmer_1422,City_137,Meghalaya
+Mustard,14995,603,Farmer_1423,City_2,Goa
+Mustard,6135,861,Farmer_1424,City_89,Kerala
+Tomato,2882,450,Farmer_1425,City_34,Telangana
+Potato,8961,869,Farmer_1426,City_178,Uttarakhand
+Tomato,11695,951,Farmer_1427,City_111,Assam
+Turmeric,12664,397,Farmer_1428,City_32,Meghalaya
+Wheat,11755,787,Farmer_1429,City_85,Odisha
+Coffee,12591,612,Farmer_1430,City_117,Karnataka
+Turmeric,4885,309,Farmer_1431,City_38,Himachal Pradesh
+Barley,3421,573,Farmer_1432,City_135,Haryana
+Jute,2655,733,Farmer_1433,City_123,Arunachal Pradesh
+Millets,11398,965,Farmer_1434,City_141,Odisha
+Turmeric,12357,481,Farmer_1435,City_52,Rajasthan
+Barley,11326,578,Farmer_1436,City_16,Tripura
+Potato,10029,117,Farmer_1437,City_116,Bihar
+Potato,10226,319,Farmer_1438,City_140,Mizoram
+Groundnut,7824,306,Farmer_1439,City_45,Himachal Pradesh
+Jute,11626,474,Farmer_1440,City_169,Tripura
+Chilli,12345,182,Farmer_1441,City_47,Sikkim
+Tea,10254,94,Farmer_1442,City_186,Goa
+Banana,13912,295,Farmer_1443,City_16,Uttarakhand
+Mustard,3605,699,Farmer_1444,City_176,Bihar
+Onion,7450,236,Farmer_1445,City_110,Rajasthan
+Mustard,5855,632,Farmer_1446,City_20,Assam
+Tea,13928,825,Farmer_1447,City_84,Assam
+Millets,6485,514,Farmer_1448,City_11,Chhattisgarh
+Sugarcane,13679,55,Farmer_1449,City_176,Meghalaya
+Sugarcane,5400,967,Farmer_1450,City_196,Mizoram
+Pulses,12785,107,Farmer_1451,City_43,Andhra Pradesh
+Onion,10836,197,Farmer_1452,City_108,Uttarakhand
+Jute,12713,444,Farmer_1453,City_115,Jharkhand
+Mustard,12267,711,Farmer_1454,City_136,Haryana
+Pulses,13409,447,Farmer_1455,City_75,Punjab
+Maize,14083,570,Farmer_1456,City_78,Mizoram
+Wheat,9345,107,Farmer_1457,City_109,Uttarakhand
+Tomato,7838,201,Farmer_1458,City_74,Assam
+Mustard,8292,443,Farmer_1459,City_99,Arunachal Pradesh
+Sugarcane,8641,719,Farmer_1460,City_76,Andhra Pradesh
+Chilli,8589,688,Farmer_1461,City_172,Tamil Nadu
+Coffee,7765,177,Farmer_1462,City_198,West Bengal
+Turmeric,11276,921,Farmer_1463,City_124,Uttarakhand
+Jute,8658,977,Farmer_1464,City_37,Assam
+Sugarcane,4718,116,Farmer_1465,City_53,Odisha
+Rice,8399,244,Farmer_1466,City_43,Nagaland
+Onion,6568,516,Farmer_1467,City_194,Mizoram
+Tea,13657,75,Farmer_1468,City_125,Goa
+Cotton,8402,440,Farmer_1469,City_184,Karnataka
+Soybean,2894,857,Farmer_1470,City_54,Uttarakhand
+Jute,7415,834,Farmer_1471,City_112,Tamil Nadu
+Coffee,6481,583,Farmer_1472,City_61,Haryana
+Pulses,2947,297,Farmer_1473,City_95,Odisha
+Coffee,11167,478,Farmer_1474,City_102,Sikkim
+Turmeric,14046,751,Farmer_1475,City_169,Maharashtra
+Banana,11304,758,Farmer_1476,City_120,Tamil Nadu
+Groundnut,1934,226,Farmer_1477,City_10,Telangana
+Millets,12665,863,Farmer_1478,City_174,Madhya Pradesh
+Groundnut,2156,308,Farmer_1479,City_125,Nagaland
+Soybean,7990,808,Farmer_1480,City_196,Punjab
+Groundnut,7919,573,Farmer_1481,City_107,Uttar Pradesh
+Banana,14453,452,Farmer_1482,City_120,Jharkhand
+Groundnut,6677,903,Farmer_1483,City_66,Tripura
+Turmeric,12594,715,Farmer_1484,City_3,Jharkhand
+Chilli,3198,963,Farmer_1485,City_1,Haryana
+Cotton,3696,975,Farmer_1486,City_149,Jharkhand
+Wheat,10179,774,Farmer_1487,City_94,Jharkhand
+Soybean,8731,365,Farmer_1488,City_174,Tamil Nadu
+Cotton,13256,898,Farmer_1489,City_166,West Bengal
+Coffee,14900,279,Farmer_1490,City_194,Mizoram
+Rice,12240,412,Farmer_1491,City_25,Chhattisgarh
+Turmeric,8781,630,Farmer_1492,City_62,Manipur
+Wheat,8559,962,Farmer_1493,City_49,Kerala
+Maize,9121,898,Farmer_1494,City_43,West Bengal
+Sugarcane,3592,928,Farmer_1495,City_191,Chhattisgarh
+Chilli,6678,897,Farmer_1496,City_43,Arunachal Pradesh
+Millets,7561,740,Farmer_1497,City_67,Odisha
+Tomato,8977,848,Farmer_1498,City_79,Uttarakhand
+Turmeric,13453,591,Farmer_1499,City_144,Tamil Nadu
+Coffee,2527,137,Farmer_1500,City_180,Gujarat
+Rice,11381,732,Farmer_1501,City_70,Andhra Pradesh
+Mustard,5852,741,Farmer_1502,City_133,Punjab
+Onion,8035,310,Farmer_1503,City_131,Punjab
+Tea,7416,970,Farmer_1504,City_49,Jharkhand
+Chilli,2727,588,Farmer_1505,City_140,Kerala
+Soybean,4215,212,Farmer_1506,City_94,Nagaland
+Chilli,2373,160,Farmer_1507,City_142,Meghalaya
+Tea,4745,989,Farmer_1508,City_197,Kerala
+Onion,3874,695,Farmer_1509,City_110,Nagaland
+Wheat,11126,374,Farmer_1510,City_124,Himachal Pradesh
+Coffee,13087,167,Farmer_1511,City_114,Mizoram
+Onion,9084,138,Farmer_1512,City_141,Gujarat
+Wheat,12460,996,Farmer_1513,City_145,Meghalaya
+Pulses,9360,176,Farmer_1514,City_138,Tripura
+Pulses,14615,649,Farmer_1515,City_7,Telangana
+Groundnut,5768,925,Farmer_1516,City_184,Madhya Pradesh
+Banana,13240,796,Farmer_1517,City_79,Rajasthan
+Cotton,6579,277,Farmer_1518,City_54,Punjab
+Millets,4901,144,Farmer_1519,City_3,Tripura
+Barley,11668,889,Farmer_1520,City_64,Karnataka
+Jute,11073,561,Farmer_1521,City_61,Tripura
+Barley,8175,883,Farmer_1522,City_140,Sikkim
+Tomato,5023,806,Farmer_1523,City_194,Telangana
+Potato,12992,934,Farmer_1524,City_141,Tripura
+Rice,14941,720,Farmer_1525,City_186,Uttarakhand
+Sugarcane,8198,180,Farmer_1526,City_135,Assam
+Maize,5648,682,Farmer_1527,City_64,Kerala
+Pulses,13380,64,Farmer_1528,City_42,Himachal Pradesh
+Chilli,13986,468,Farmer_1529,City_111,Uttar Pradesh
+Soybean,5790,823,Farmer_1530,City_62,Kerala
+Mustard,9503,653,Farmer_1531,City_167,Rajasthan
+Pulses,4419,636,Farmer_1532,City_87,Madhya Pradesh
+Maize,2162,736,Farmer_1533,City_2,Himachal Pradesh
+Chilli,8397,299,Farmer_1534,City_11,Rajasthan
+Tomato,9560,215,Farmer_1535,City_97,Telangana
+Jute,1619,947,Farmer_1536,City_142,Himachal Pradesh
+Pulses,8327,678,Farmer_1537,City_17,Maharashtra
+Chilli,4750,808,Farmer_1538,City_127,Meghalaya
+Mustard,6452,784,Farmer_1539,City_64,Chhattisgarh
+Barley,6923,575,Farmer_1540,City_140,Arunachal Pradesh
+Coffee,4951,709,Farmer_1541,City_111,Sikkim
+Banana,11517,470,Farmer_1542,City_66,Nagaland
+Mustard,9083,213,Farmer_1543,City_196,Tamil Nadu
+Soybean,12277,69,Farmer_1544,City_172,Chhattisgarh
+Jute,1655,352,Farmer_1545,City_118,Gujarat
+Rice,2888,484,Farmer_1546,City_125,Karnataka
+Millets,5767,406,Farmer_1547,City_178,Sikkim
+Pulses,3142,611,Farmer_1548,City_191,Kerala
+Rice,7521,267,Farmer_1549,City_128,Sikkim
+Chilli,13283,187,Farmer_1550,City_6,Manipur
+Cotton,3645,57,Farmer_1551,City_170,Uttar Pradesh
+Wheat,7727,835,Farmer_1552,City_192,Haryana
+Potato,8576,887,Farmer_1553,City_168,Meghalaya
+Pulses,2459,789,Farmer_1554,City_3,Arunachal Pradesh
+Pulses,12433,401,Farmer_1555,City_160,Maharashtra
+Turmeric,2480,819,Farmer_1556,City_47,Nagaland
+Sugarcane,10692,857,Farmer_1557,City_177,Madhya Pradesh
+Tomato,8063,400,Farmer_1558,City_166,Tripura
+Soybean,11201,366,Farmer_1559,City_33,Assam
+Millets,5932,516,Farmer_1560,City_141,Manipur
+Turmeric,4547,308,Farmer_1561,City_50,Odisha
+Chilli,7356,900,Farmer_1562,City_122,Kerala
+Mustard,9781,360,Farmer_1563,City_164,Tripura
+Pulses,14532,711,Farmer_1564,City_54,Telangana
+Rice,4647,107,Farmer_1565,City_58,Punjab
+Mustard,6423,902,Farmer_1566,City_163,Jharkhand
+Potato,7434,865,Farmer_1567,City_91,Nagaland
+Cotton,3712,348,Farmer_1568,City_3,Tamil Nadu
+Pulses,8775,720,Farmer_1569,City_150,Goa
+Barley,8796,973,Farmer_1570,City_140,Nagaland
+Onion,14797,252,Farmer_1571,City_155,Telangana
+Tea,12048,939,Farmer_1572,City_123,Punjab
+Wheat,5481,807,Farmer_1573,City_71,Maharashtra
+Chilli,13097,471,Farmer_1574,City_160,West Bengal
+Barley,6150,625,Farmer_1575,City_190,Punjab
+Maize,6543,748,Farmer_1576,City_10,Assam
+Groundnut,9125,873,Farmer_1577,City_156,Maharashtra
+Pulses,5253,146,Farmer_1578,City_124,Telangana
+Coffee,10741,621,Farmer_1579,City_187,Bihar
+Rice,7172,922,Farmer_1580,City_137,Maharashtra
+Groundnut,7172,520,Farmer_1581,City_10,Tamil Nadu
+Millets,10981,960,Farmer_1582,City_59,Bihar
+Soybean,1973,632,Farmer_1583,City_57,West Bengal
+Sugarcane,8757,357,Farmer_1584,City_79,Jharkhand
+Rice,2026,668,Farmer_1585,City_87,Andhra Pradesh
+Banana,9553,282,Farmer_1586,City_54,Andhra Pradesh
+Wheat,12344,541,Farmer_1587,City_97,Jharkhand
+Cotton,2919,308,Farmer_1588,City_61,Madhya Pradesh
+Barley,3601,340,Farmer_1589,City_58,Himachal Pradesh
+Tomato,8809,698,Farmer_1590,City_83,Telangana
+Potato,3794,571,Farmer_1591,City_65,Uttar Pradesh
+Millets,2244,466,Farmer_1592,City_68,Andhra Pradesh
+Mustard,6396,593,Farmer_1593,City_100,Arunachal Pradesh
+Tea,12321,79,Farmer_1594,City_19,Rajasthan
+Potato,8461,816,Farmer_1595,City_112,Nagaland
+Turmeric,8095,437,Farmer_1596,City_148,Himachal Pradesh
+Onion,7853,579,Farmer_1597,City_2,Mizoram
+Tea,6440,637,Farmer_1598,City_103,Madhya Pradesh
+Turmeric,7994,753,Farmer_1599,City_26,Karnataka
+Chilli,3826,836,Farmer_1600,City_197,Madhya Pradesh
+Wheat,8284,684,Farmer_1601,City_46,Haryana
+Coffee,9892,538,Farmer_1602,City_123,Arunachal Pradesh
+Soybean,4105,186,Farmer_1603,City_121,Haryana
+Coffee,4398,992,Farmer_1604,City_193,Himachal Pradesh
+Groundnut,13599,236,Farmer_1605,City_48,Haryana
+Rice,2085,918,Farmer_1606,City_57,Mizoram
+Turmeric,4063,57,Farmer_1607,City_85,Haryana
+Rice,4767,856,Farmer_1608,City_84,Karnataka
+Coffee,9711,337,Farmer_1609,City_113,Meghalaya
+Wheat,2559,892,Farmer_1610,City_43,Jharkhand
+Groundnut,14226,485,Farmer_1611,City_147,Uttarakhand
+Maize,13531,151,Farmer_1612,City_83,Goa
+Wheat,13626,513,Farmer_1613,City_82,Sikkim
+Cotton,14411,577,Farmer_1614,City_59,Telangana
+Cotton,12656,958,Farmer_1615,City_182,Manipur
+Barley,13984,615,Farmer_1616,City_82,Tamil Nadu
+Mustard,10202,61,Farmer_1617,City_41,Bihar
+Chilli,9243,567,Farmer_1618,City_136,Sikkim
+Chilli,14532,996,Farmer_1619,City_14,Chhattisgarh
+Soybean,8124,895,Farmer_1620,City_194,Goa
+Tea,2415,752,Farmer_1621,City_18,Rajasthan
+Chilli,10566,189,Farmer_1622,City_64,Odisha
+Potato,3358,345,Farmer_1623,City_148,Bihar
+Tea,13470,382,Farmer_1624,City_168,Telangana
+Onion,11693,812,Farmer_1625,City_4,Madhya Pradesh
+Soybean,7369,263,Farmer_1626,City_45,Rajasthan
+Tomato,5443,819,Farmer_1627,City_144,Uttar Pradesh
+Millets,4540,508,Farmer_1628,City_161,Bihar
+Onion,10288,547,Farmer_1629,City_141,Odisha
+Soybean,10016,784,Farmer_1630,City_179,Jharkhand
+Banana,9269,984,Farmer_1631,City_40,Meghalaya
+Maize,2283,853,Farmer_1632,City_118,West Bengal
+Maize,7860,450,Farmer_1633,City_3,Kerala
+Barley,10732,599,Farmer_1634,City_63,Odisha
+Millets,9200,311,Farmer_1635,City_59,Mizoram
+Cotton,13993,788,Farmer_1636,City_110,Haryana
+Turmeric,9839,292,Farmer_1637,City_9,Gujarat
+Millets,1828,590,Farmer_1638,City_159,Tripura
+Wheat,6225,837,Farmer_1639,City_65,Tripura
+Groundnut,3874,966,Farmer_1640,City_123,Mizoram
+Groundnut,8915,75,Farmer_1641,City_154,Uttar Pradesh
+Soybean,11237,144,Farmer_1642,City_103,Sikkim
+Coffee,2283,146,Farmer_1643,City_102,Mizoram
+Groundnut,13857,975,Farmer_1644,City_147,Meghalaya
+Pulses,1554,853,Farmer_1645,City_86,Kerala
+Tea,13383,301,Farmer_1646,City_181,Uttarakhand
+Potato,13681,903,Farmer_1647,City_77,Arunachal Pradesh
+Banana,12461,576,Farmer_1648,City_44,Punjab
+Onion,6156,147,Farmer_1649,City_167,Madhya Pradesh
+Millets,9888,957,Farmer_1650,City_111,Rajasthan
+Millets,3857,353,Farmer_1651,City_185,Madhya Pradesh
+Sugarcane,10775,357,Farmer_1652,City_115,Arunachal Pradesh
+Groundnut,7522,626,Farmer_1653,City_86,Manipur
+Jute,8094,153,Farmer_1654,City_111,Arunachal Pradesh
+Pulses,8140,464,Farmer_1655,City_192,Nagaland
+Rice,9893,710,Farmer_1656,City_140,Jharkhand
+Pulses,5525,641,Farmer_1657,City_58,Uttar Pradesh
+Barley,6330,601,Farmer_1658,City_50,Odisha
+Rice,4686,987,Farmer_1659,City_148,Karnataka
+Jute,12810,525,Farmer_1660,City_15,Manipur
+Maize,11286,440,Farmer_1661,City_143,Bihar
+Maize,8814,890,Farmer_1662,City_105,Arunachal Pradesh
+Soybean,2663,947,Farmer_1663,City_168,Goa
+Rice,8737,441,Farmer_1664,City_63,Tamil Nadu
+Turmeric,13793,128,Farmer_1665,City_9,Rajasthan
+Rice,13788,567,Farmer_1666,City_17,Odisha
+Chilli,8676,704,Farmer_1667,City_117,Uttar Pradesh
+Rice,5601,818,Farmer_1668,City_163,Chhattisgarh
+Jute,2280,752,Farmer_1669,City_120,Andhra Pradesh
+Barley,8963,810,Farmer_1670,City_154,Goa
+Rice,9642,654,Farmer_1671,City_152,Tripura
+Turmeric,4314,218,Farmer_1672,City_133,Assam
+Banana,6460,932,Farmer_1673,City_56,Chhattisgarh
+Mustard,2191,768,Farmer_1674,City_62,Tripura
+Potato,1505,819,Farmer_1675,City_144,Uttarakhand
+Turmeric,6161,575,Farmer_1676,City_34,Andhra Pradesh
+Tomato,2853,252,Farmer_1677,City_104,Punjab
+Pulses,7125,713,Farmer_1678,City_28,Gujarat
+Jute,4124,934,Farmer_1679,City_167,Telangana
+Coffee,12175,271,Farmer_1680,City_69,Andhra Pradesh
+Cotton,2251,661,Farmer_1681,City_1,Rajasthan
+Coffee,6577,837,Farmer_1682,City_76,Mizoram
+Chilli,12053,502,Farmer_1683,City_174,Maharashtra
+Potato,8661,695,Farmer_1684,City_55,Arunachal Pradesh
+Turmeric,2057,730,Farmer_1685,City_32,Sikkim
+Sugarcane,12469,889,Farmer_1686,City_187,Mizoram
+Banana,6669,62,Farmer_1687,City_97,Telangana
+Turmeric,6489,703,Farmer_1688,City_15,Chhattisgarh
+Banana,5176,491,Farmer_1689,City_57,Sikkim
+Onion,4558,134,Farmer_1690,City_119,Andhra Pradesh
+Banana,2130,743,Farmer_1691,City_37,Gujarat
+Potato,7498,912,Farmer_1692,City_74,Haryana
+Jute,3905,186,Farmer_1693,City_129,Karnataka
+Onion,10470,401,Farmer_1694,City_112,Assam
+Tomato,1951,506,Farmer_1695,City_124,Arunachal Pradesh
+Banana,3262,347,Farmer_1696,City_163,Nagaland
+Pulses,6461,748,Farmer_1697,City_60,Kerala
+Banana,2171,380,Farmer_1698,City_151,Meghalaya
+Turmeric,14708,322,Farmer_1699,City_68,Assam
+Tomato,5959,496,Farmer_1700,City_116,Bihar
+Banana,7764,608,Farmer_1701,City_29,Tamil Nadu
+Cotton,11439,150,Farmer_1702,City_18,Tripura
+Tea,4973,634,Farmer_1703,City_187,Goa
+Jute,5855,173,Farmer_1704,City_135,Odisha
+Banana,3768,701,Farmer_1705,City_26,Uttar Pradesh
+Jute,4027,225,Farmer_1706,City_2,Kerala
+Turmeric,5142,305,Farmer_1707,City_12,Arunachal Pradesh
+Potato,3096,737,Farmer_1708,City_90,West Bengal
+Maize,6365,598,Farmer_1709,City_11,Rajasthan
+Barley,5433,129,Farmer_1710,City_137,Odisha
+Groundnut,12308,702,Farmer_1711,City_126,Assam
+Tea,9314,394,Farmer_1712,City_34,Odisha
+Chilli,3583,348,Farmer_1713,City_41,Haryana
+Jute,7428,389,Farmer_1714,City_21,Tamil Nadu
+Wheat,7843,233,Farmer_1715,City_48,Jharkhand
+Potato,3094,686,Farmer_1716,City_55,Sikkim
+Coffee,9790,185,Farmer_1717,City_154,Jharkhand
+Maize,5436,723,Farmer_1718,City_28,Uttarakhand
+Wheat,9528,909,Farmer_1719,City_183,Sikkim
+Cotton,9312,658,Farmer_1720,City_70,Rajasthan
+Wheat,8101,974,Farmer_1721,City_51,Gujarat
+Jute,9601,152,Farmer_1722,City_11,Tamil Nadu
+Wheat,7837,547,Farmer_1723,City_58,Madhya Pradesh
+Groundnut,3560,431,Farmer_1724,City_198,Tripura
+Coffee,11892,181,Farmer_1725,City_126,Maharashtra
+Potato,2811,545,Farmer_1726,City_168,Gujarat
+Sugarcane,4325,641,Farmer_1727,City_66,Rajasthan
+Banana,4473,365,Farmer_1728,City_95,Arunachal Pradesh
+Jute,9959,496,Farmer_1729,City_199,Maharashtra
+Mustard,14320,166,Farmer_1730,City_156,Tamil Nadu
+Jute,3179,400,Farmer_1731,City_129,Karnataka
+Banana,13406,571,Farmer_1732,City_82,Meghalaya
+Turmeric,4712,566,Farmer_1733,City_132,Uttarakhand
+Tea,12570,891,Farmer_1734,City_65,Uttar Pradesh
+Coffee,6249,614,Farmer_1735,City_19,Tripura
+Coffee,9173,176,Farmer_1736,City_72,Karnataka
+Groundnut,4263,997,Farmer_1737,City_95,Mizoram
+Mustard,5562,322,Farmer_1738,City_186,Karnataka
+Jute,12753,706,Farmer_1739,City_125,Uttar Pradesh
+Jute,11028,646,Farmer_1740,City_133,Tamil Nadu
+Millets,13640,53,Farmer_1741,City_13,Meghalaya
+Tea,12313,348,Farmer_1742,City_35,Himachal Pradesh
+Onion,13595,454,Farmer_1743,City_33,Karnataka
+Pulses,5317,515,Farmer_1744,City_103,Karnataka
+Mustard,7029,549,Farmer_1745,City_196,Tripura
+Onion,6229,565,Farmer_1746,City_69,Uttarakhand
+Rice,3723,769,Farmer_1747,City_2,Bihar
+Potato,5733,706,Farmer_1748,City_16,Maharashtra
+Barley,14937,787,Farmer_1749,City_188,Punjab
+Sugarcane,13703,514,Farmer_1750,City_63,Punjab
+Millets,12339,566,Farmer_1751,City_42,Chhattisgarh
+Barley,5481,102,Farmer_1752,City_27,Uttar Pradesh
+Mustard,3625,325,Farmer_1753,City_25,Maharashtra
+Turmeric,2836,344,Farmer_1754,City_133,Jharkhand
+Groundnut,9415,983,Farmer_1755,City_23,Odisha
+Chilli,7028,890,Farmer_1756,City_173,Goa
+Banana,9413,238,Farmer_1757,City_79,Himachal Pradesh
+Potato,9297,978,Farmer_1758,City_192,West Bengal
+Chilli,2640,549,Farmer_1759,City_176,Chhattisgarh
+Banana,7220,888,Farmer_1760,City_34,West Bengal
+Banana,14125,870,Farmer_1761,City_92,Goa
+Turmeric,7878,850,Farmer_1762,City_106,Kerala
+Jute,10057,658,Farmer_1763,City_91,Bihar
+Onion,6766,54,Farmer_1764,City_49,Manipur
+Rice,3938,52,Farmer_1765,City_57,Goa
+Groundnut,14381,499,Farmer_1766,City_47,Gujarat
+Coffee,1865,553,Farmer_1767,City_143,Jharkhand
+Turmeric,5289,591,Farmer_1768,City_27,Mizoram
+Onion,11453,499,Farmer_1769,City_35,Rajasthan
+Wheat,1640,322,Farmer_1770,City_20,Maharashtra
+Potato,10522,72,Farmer_1771,City_175,Punjab
+Groundnut,9932,204,Farmer_1772,City_29,Meghalaya
+Sugarcane,14416,109,Farmer_1773,City_60,Tripura
+Onion,4260,596,Farmer_1774,City_45,Uttarakhand
+Rice,6230,137,Farmer_1775,City_44,Punjab
+Potato,5680,511,Farmer_1776,City_41,West Bengal
+Turmeric,6058,342,Farmer_1777,City_170,Madhya Pradesh
+Tomato,14808,234,Farmer_1778,City_130,Goa
+Millets,10963,256,Farmer_1779,City_183,Chhattisgarh
+Cotton,6886,988,Farmer_1780,City_114,Meghalaya
+Banana,9855,408,Farmer_1781,City_50,Himachal Pradesh
+Soybean,9366,257,Farmer_1782,City_71,Madhya Pradesh
+Sugarcane,14147,935,Farmer_1783,City_39,Uttar Pradesh
+Wheat,4656,242,Farmer_1784,City_180,Mizoram
+Cotton,2978,143,Farmer_1785,City_127,Punjab
+Tea,11247,107,Farmer_1786,City_124,Nagaland
+Cotton,6760,852,Farmer_1787,City_27,Madhya Pradesh
+Groundnut,6754,869,Farmer_1788,City_61,Mizoram
+Coffee,8143,247,Farmer_1789,City_93,Kerala
+Coffee,10236,598,Farmer_1790,City_101,Punjab
+Millets,3846,801,Farmer_1791,City_2,Tripura
+Tomato,6192,735,Farmer_1792,City_88,Madhya Pradesh
+Jute,2416,95,Farmer_1793,City_4,Uttarakhand
+Mustard,14383,222,Farmer_1794,City_144,Madhya Pradesh
+Groundnut,11117,813,Farmer_1795,City_150,Tamil Nadu
+Jute,6184,223,Farmer_1796,City_8,Punjab
+Potato,9806,338,Farmer_1797,City_176,Karnataka
+Pulses,9488,580,Farmer_1798,City_105,Gujarat
+Tea,10926,829,Farmer_1799,City_165,Assam
+Cotton,12564,658,Farmer_1800,City_50,Mizoram
+Potato,6134,543,Farmer_1801,City_53,Manipur
+Jute,11344,166,Farmer_1802,City_46,Rajasthan
+Pulses,7635,216,Farmer_1803,City_58,Haryana
+Banana,14975,481,Farmer_1804,City_146,Tripura
+Rice,3690,586,Farmer_1805,City_42,Himachal Pradesh
+Barley,9440,727,Farmer_1806,City_63,Gujarat
+Jute,3870,819,Farmer_1807,City_30,Gujarat
+Sugarcane,1960,831,Farmer_1808,City_90,West Bengal
+Potato,1884,124,Farmer_1809,City_7,Punjab
+Turmeric,12668,301,Farmer_1810,City_178,Nagaland
+Tea,7275,314,Farmer_1811,City_79,Karnataka
+Cotton,2049,391,Farmer_1812,City_14,Tripura
+Coffee,4934,912,Farmer_1813,City_200,Chhattisgarh
+Banana,3162,76,Farmer_1814,City_122,West Bengal
+Tea,2938,203,Farmer_1815,City_106,Gujarat
+Tea,4048,56,Farmer_1816,City_63,Tamil Nadu
+Chilli,12335,101,Farmer_1817,City_184,Haryana
+Potato,9185,888,Farmer_1818,City_32,Kerala
+Wheat,11954,443,Farmer_1819,City_180,Sikkim
+Chilli,12511,611,Farmer_1820,City_112,Jharkhand
+Millets,8292,317,Farmer_1821,City_67,Madhya Pradesh
+Sugarcane,4824,231,Farmer_1822,City_39,Punjab
+Maize,7158,54,Farmer_1823,City_45,Assam
+Soybean,14498,808,Farmer_1824,City_178,Nagaland
+Coffee,14854,608,Farmer_1825,City_111,Chhattisgarh
+Wheat,2798,668,Farmer_1826,City_46,Nagaland
+Tomato,14857,383,Farmer_1827,City_6,Assam
+Sugarcane,5225,524,Farmer_1828,City_188,Meghalaya
+Maize,13597,400,Farmer_1829,City_48,Chhattisgarh
+Chilli,8430,92,Farmer_1830,City_31,Odisha
+Potato,5166,942,Farmer_1831,City_61,Himachal Pradesh
+Pulses,9865,463,Farmer_1832,City_13,Andhra Pradesh
+Onion,13620,123,Farmer_1833,City_127,Nagaland
+Rice,4354,270,Farmer_1834,City_2,Uttarakhand
+Turmeric,11558,764,Farmer_1835,City_81,Goa
+Pulses,9554,866,Farmer_1836,City_75,Arunachal Pradesh
+Pulses,10362,619,Farmer_1837,City_38,Chhattisgarh
+Rice,13793,800,Farmer_1838,City_186,Andhra Pradesh
+Jute,11384,989,Farmer_1839,City_119,Goa
+Rice,8214,395,Farmer_1840,City_51,Sikkim
+Sugarcane,2618,789,Farmer_1841,City_100,Maharashtra
+Groundnut,14806,770,Farmer_1842,City_51,Mizoram
+Wheat,3936,801,Farmer_1843,City_94,Jharkhand
+Chilli,8516,742,Farmer_1844,City_130,Chhattisgarh
+Wheat,6404,857,Farmer_1845,City_185,Jharkhand
+Millets,3118,61,Farmer_1846,City_144,Arunachal Pradesh
+Onion,6274,591,Farmer_1847,City_48,Uttar Pradesh
+Coffee,4614,250,Farmer_1848,City_164,Tamil Nadu
+Tea,11821,627,Farmer_1849,City_22,Jharkhand
+Millets,8349,846,Farmer_1850,City_18,Assam
+Millets,14266,775,Farmer_1851,City_17,Nagaland
+Jute,1593,511,Farmer_1852,City_30,Karnataka
+Jute,12710,369,Farmer_1853,City_124,Sikkim
+Wheat,9822,190,Farmer_1854,City_6,Madhya Pradesh
+Potato,6493,426,Farmer_1855,City_185,Maharashtra
+Pulses,5816,726,Farmer_1856,City_2,Punjab
+Sugarcane,10661,993,Farmer_1857,City_66,Rajasthan
+Sugarcane,14167,813,Farmer_1858,City_49,Punjab
+Rice,3894,616,Farmer_1859,City_170,Kerala
+Millets,14686,305,Farmer_1860,City_175,Andhra Pradesh
+Millets,7885,115,Farmer_1861,City_101,Himachal Pradesh
+Cotton,6572,728,Farmer_1862,City_64,Manipur
+Mustard,9970,264,Farmer_1863,City_43,Sikkim
+Potato,7761,437,Farmer_1864,City_165,Gujarat
+Tea,9223,724,Farmer_1865,City_88,Sikkim
+Onion,5069,817,Farmer_1866,City_163,Gujarat
+Millets,3242,766,Farmer_1867,City_149,Tamil Nadu
+Potato,2089,840,Farmer_1868,City_169,Madhya Pradesh
+Pulses,14824,356,Farmer_1869,City_69,Bihar
+Tea,7519,146,Farmer_1870,City_72,Manipur
+Onion,7258,234,Farmer_1871,City_74,Telangana
+Cotton,12633,159,Farmer_1872,City_8,Haryana
+Soybean,6515,952,Farmer_1873,City_187,Chhattisgarh
+Millets,5093,343,Farmer_1874,City_152,Andhra Pradesh
+Tomato,8840,150,Farmer_1875,City_193,Maharashtra
+Soybean,1833,120,Farmer_1876,City_59,Odisha
+Groundnut,3861,756,Farmer_1877,City_5,Tripura
+Cotton,2603,314,Farmer_1878,City_23,Himachal Pradesh
+Wheat,8227,682,Farmer_1879,City_122,Assam
+Jute,7044,537,Farmer_1880,City_37,Jharkhand
+Cotton,9898,819,Farmer_1881,City_149,Haryana
+Potato,4042,800,Farmer_1882,City_160,Telangana
+Turmeric,3328,370,Farmer_1883,City_32,Tripura
+Onion,5906,419,Farmer_1884,City_71,Tamil Nadu
+Banana,4128,306,Farmer_1885,City_149,Karnataka
+Rice,5889,820,Farmer_1886,City_27,Punjab
+Soybean,6441,84,Farmer_1887,City_106,Assam
+Rice,2078,854,Farmer_1888,City_100,Kerala
+Groundnut,4425,368,Farmer_1889,City_72,Chhattisgarh
+Soybean,10635,951,Farmer_1890,City_192,Uttar Pradesh
+Tomato,7233,782,Farmer_1891,City_81,Rajasthan
+Tea,7387,608,Farmer_1892,City_161,Rajasthan
+Cotton,14060,203,Farmer_1893,City_114,Punjab
+Turmeric,4373,378,Farmer_1894,City_130,West Bengal
+Groundnut,14789,282,Farmer_1895,City_198,Himachal Pradesh
+Onion,9557,405,Farmer_1896,City_115,Odisha
+Cotton,13300,550,Farmer_1897,City_44,Rajasthan
+Coffee,10896,489,Farmer_1898,City_14,Odisha
+Sugarcane,8784,593,Farmer_1899,City_121,Manipur
+Banana,11916,538,Farmer_1900,City_200,Telangana
+Potato,2953,165,Farmer_1901,City_53,Madhya Pradesh
+Turmeric,8560,119,Farmer_1902,City_133,Tripura
+Cotton,2370,131,Farmer_1903,City_65,Chhattisgarh
+Banana,9330,69,Farmer_1904,City_128,Kerala
+Tea,9414,817,Farmer_1905,City_48,Manipur
+Coffee,1945,183,Farmer_1906,City_75,Manipur
+Tea,4826,521,Farmer_1907,City_116,Gujarat
+Coffee,14852,213,Farmer_1908,City_5,Meghalaya
+Soybean,2028,420,Farmer_1909,City_13,Assam
+Sugarcane,14383,816,Farmer_1910,City_187,Arunachal Pradesh
+Turmeric,1629,164,Farmer_1911,City_5,Maharashtra
+Chilli,8317,430,Farmer_1912,City_142,Tripura
+Sugarcane,9799,314,Farmer_1913,City_85,Goa
+Soybean,13883,187,Farmer_1914,City_76,Chhattisgarh
+Jute,4980,393,Farmer_1915,City_36,Kerala
+Banana,12179,474,Farmer_1916,City_75,Arunachal Pradesh
+Potato,4204,818,Farmer_1917,City_150,Jharkhand
+Turmeric,5179,434,Farmer_1918,City_61,Bihar
+Sugarcane,10142,157,Farmer_1919,City_184,Nagaland
+Coffee,10635,724,Farmer_1920,City_114,Rajasthan
+Soybean,9131,491,Farmer_1921,City_35,Odisha
+Onion,2127,849,Farmer_1922,City_6,Tamil Nadu
+Mustard,9707,923,Farmer_1923,City_25,Andhra Pradesh
+Pulses,2814,317,Farmer_1924,City_183,Punjab
+Potato,4204,703,Farmer_1925,City_74,Mizoram
+Chilli,5655,548,Farmer_1926,City_65,Rajasthan
+Mustard,14913,707,Farmer_1927,City_101,Himachal Pradesh
+Jute,5881,623,Farmer_1928,City_121,Tamil Nadu
+Mustard,11794,238,Farmer_1929,City_147,Uttar Pradesh
+Millets,7561,972,Farmer_1930,City_193,Himachal Pradesh
+Potato,13621,598,Farmer_1931,City_47,Bihar
+Coffee,5993,139,Farmer_1932,City_127,Manipur
+Banana,7140,940,Farmer_1933,City_170,Meghalaya
+Tomato,6602,217,Farmer_1934,City_67,Bihar
+Onion,11216,441,Farmer_1935,City_107,Assam
+Turmeric,4630,553,Farmer_1936,City_128,Nagaland
+Turmeric,6547,390,Farmer_1937,City_60,Tamil Nadu
+Chilli,7164,756,Farmer_1938,City_195,Andhra Pradesh
+Soybean,3595,208,Farmer_1939,City_90,West Bengal
+Maize,14635,535,Farmer_1940,City_155,Mizoram
+Wheat,14808,61,Farmer_1941,City_164,Bihar
+Chilli,9402,585,Farmer_1942,City_149,Chhattisgarh
+Jute,11964,427,Farmer_1943,City_87,Bihar
+Soybean,11126,524,Farmer_1944,City_132,Goa
+Rice,12319,321,Farmer_1945,City_185,Mizoram
+Sugarcane,5922,847,Farmer_1946,City_108,Tripura
+Barley,14449,289,Farmer_1947,City_151,Maharashtra
+Sugarcane,9514,523,Farmer_1948,City_84,Mizoram
+Potato,14723,663,Farmer_1949,City_66,Manipur
+Chilli,4213,272,Farmer_1950,City_91,Mizoram
+Soybean,9112,685,Farmer_1951,City_149,Telangana
+Chilli,14849,853,Farmer_1952,City_31,Tripura
+Cotton,10054,778,Farmer_1953,City_162,Madhya Pradesh
+Chilli,11471,295,Farmer_1954,City_68,Uttar Pradesh
+Millets,5419,733,Farmer_1955,City_62,Mizoram
+Onion,11786,925,Farmer_1956,City_26,Tripura
+Jute,10925,946,Farmer_1957,City_94,West Bengal
+Tea,12120,730,Farmer_1958,City_165,Manipur
+Jute,12291,846,Farmer_1959,City_87,Jharkhand
+Tea,4646,496,Farmer_1960,City_39,Maharashtra
+Mustard,10752,592,Farmer_1961,City_110,Arunachal Pradesh
+Tea,8915,204,Farmer_1962,City_156,Nagaland
+Jute,8843,529,Farmer_1963,City_25,Manipur
+Jute,4646,275,Farmer_1964,City_181,Bihar
+Cotton,10173,270,Farmer_1965,City_6,Assam
+Coffee,5160,230,Farmer_1966,City_150,Odisha
+Millets,13042,460,Farmer_1967,City_180,West Bengal
+Wheat,14959,404,Farmer_1968,City_140,Gujarat
+Wheat,5915,210,Farmer_1969,City_56,Goa
+Mustard,9614,97,Farmer_1970,City_83,Gujarat
+Sugarcane,10280,842,Farmer_1971,City_87,Gujarat
+Tomato,7801,380,Farmer_1972,City_81,Manipur
+Tomato,12311,154,Farmer_1973,City_27,Punjab
+Turmeric,8493,311,Farmer_1974,City_142,Rajasthan
+Maize,6302,55,Farmer_1975,City_167,Nagaland
+Sugarcane,14939,359,Farmer_1976,City_139,Bihar
+Maize,8263,367,Farmer_1977,City_53,Chhattisgarh
+Groundnut,13829,916,Farmer_1978,City_126,Nagaland
+Potato,4555,202,Farmer_1979,City_81,Haryana
+Millets,3610,631,Farmer_1980,City_103,Rajasthan
+Millets,13779,453,Farmer_1981,City_30,Meghalaya
+Banana,14672,288,Farmer_1982,City_195,Telangana
+Mustard,5644,888,Farmer_1983,City_117,Rajasthan
+Pulses,3900,883,Farmer_1984,City_123,Himachal Pradesh
+Tea,5455,670,Farmer_1985,City_41,Kerala
+Cotton,13835,879,Farmer_1986,City_42,Tamil Nadu
+Soybean,4498,983,Farmer_1987,City_112,Haryana
+Wheat,14028,919,Farmer_1988,City_10,Punjab
+Coffee,13380,376,Farmer_1989,City_90,Arunachal Pradesh
+Mustard,8876,387,Farmer_1990,City_144,Tamil Nadu
+Soybean,7105,843,Farmer_1991,City_109,Assam
+Banana,14773,615,Farmer_1992,City_172,Jharkhand
+Onion,5381,887,Farmer_1993,City_76,Arunachal Pradesh
+Jute,7430,493,Farmer_1994,City_27,Tripura
+Potato,5407,679,Farmer_1995,City_162,Manipur
+Tea,4853,420,Farmer_1996,City_98,Telangana
+Millets,5883,966,Farmer_1997,City_164,Mizoram
+Potato,10950,93,Farmer_1998,City_44,Tamil Nadu
+Turmeric,12229,631,Farmer_1999,City_69,Sikkim
+Pulses,14868,567,Farmer_2000,City_186,Kerala
