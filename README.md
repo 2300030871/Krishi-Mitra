@@ -174,6 +174,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-- Aman
+- Polepalli Pramodini
   
 
