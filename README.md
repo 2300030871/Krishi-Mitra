@@ -175,5 +175,60 @@ npm run dev
 ## 👨‍💻 Author
 
 - Polepalli Pramodini
+
+---
+
+## 🌐 Deploy On Render
+
+This repo now includes a Render Blueprint file at [render.yaml](render.yaml), so you can deploy backend + frontend together.
+
+### 1. Push this repo to GitHub
+
+Render will deploy from your GitHub repository.
+
+### 2. Create services using Blueprint
+
+1. Open Render Dashboard.
+2. Click **New** → **Blueprint**.
+3. Select this repository.
+4. Render will detect [render.yaml](render.yaml) and create:
+   - `agrimandi-backend` (Node Web Service)
+   - `agrimandi-frontend` (Static Site)
+
+### 3. Set backend environment variables
+
+In Render service `agrimandi-backend`, set:
+
+- `MONGO_URI` = your MongoDB connection string
+- `JWT_SECRET` = strong secret key
+- `CLIENT_URL` = your frontend Render URL (example: `https://agrimandi-frontend.onrender.com`)
+- `OPENAI_API_KEY` = optional (only needed for voice transcription/TTS)
+
+### 4. Set frontend environment variables
+
+In Render service `agrimandi-frontend`, set:
+
+- `VITE_API_BASE_URL` = your backend URL + `/api`
+  - example: `https://agrimandi-backend.onrender.com/api`
+- `VITE_SOCKET_URL` = your backend URL
+  - example: `https://agrimandi-backend.onrender.com`
+
+### 5. Redeploy both services
+
+After setting env vars, trigger redeploy for both services.
+
+### 6. Verify
+
+- Backend health: `https://<your-backend>.onrender.com/api/health`
+- Open frontend URL and test:
+  - login/register
+  - crop list
+  - socket updates/chat
+
+### Notes
+
+- Backend CORS now supports comma-separated origins in `CLIENT_URL`.
+  - Example: `https://agrimandi-frontend.onrender.com,http://localhost:5173`
+- Render free instances may sleep after inactivity, causing first request delay.
   
 

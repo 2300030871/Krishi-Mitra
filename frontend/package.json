@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "agriproject": "file:..",
     "axios": "^1.12.2",
     "i18next": "^25.5.2",
     "react": "^18.3.1",
