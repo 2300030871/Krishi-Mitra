@@ -22,9 +22,8 @@ services:
       - key: OPENAI_TTS_VOICE
         value: alloy
 
-  - type: web
+  - type: static
     name: agrimandi-frontend
-    runtime: node
     rootDir: frontend
     buildCommand: npm install && npm run build
     staticPublishPath: dist
