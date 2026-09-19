@@ -6,6 +6,13 @@ import AuthPage from './pages/AuthPage';
 import AdminPage from './pages/AdminPage';
 import FarmerDashboard from './pages/FarmerDashboard';
 import BuyerDashboard from './pages/BuyerDashboard';
+import DiseaseDetectionPage from './pages/DiseaseDetectionPage';
+import TreatmentGuidancePage from './pages/TreatmentGuidancePage';
+import ColdStoragePage from './pages/ColdStoragePage';
+import LogisticsPage from './pages/LogisticsPage';
+import ConnectivityStatus from './components/ConnectivityStatus';
+import SyncStatus from './components/SyncStatus';
+import { initializeSync } from './services/syncService';
 import { clearSession, getStoredUser } from './auth';
 import { emitToast } from './toast';
 
@@ -18,6 +25,10 @@ const PATH_TO_TAB = {
   '/admin': 'admin',
   '/farmer': 'farmer',
   '/buyer': 'buyer',
+  '/disease-detection': 'disease',
+  '/treatment': 'treatment',
+  '/cold-storage': 'cold-storage',
+  '/logistics': 'logistics',
 };
 
 const TAB_TO_PATH = {
@@ -28,6 +39,9 @@ const TAB_TO_PATH = {
   admin: '/admin',
   farmer: '/farmer',
   buyer: '/buyer',
+  disease: '/disease-detection',
+  'cold-storage': '/cold-storage',
+  logistics: '/logistics',
 };
 
 const tabs = [
@@ -37,6 +51,9 @@ const tabs = [
   { key: 'admin', label: 'Admin' },
   { key: 'farmer', label: 'Farmer Dashboard' },
   { key: 'buyer', label: 'Buyer Dashboard' },
+  { key: 'disease', label: 'Crop Care' },
+  { key: 'cold-storage', label: 'Post-Harvest' },
+  { key: 'logistics', label: 'Logistics' },
 ];
 
 function AccessDenied({ role, onGoAuth }) {
@@ -68,7 +85,7 @@ export default function App() {
     const role = sessionUser?.role;
     const defaultTabs = ['home', 'mandi', 'schemes', 'auth'];
 
-    if (role === 'farmer') return [...defaultTabs, 'farmer'];
+    if (role === 'farmer') return [...defaultTabs, 'farmer', 'disease', 'treatment', 'cold-storage', 'logistics'];
     if (role === 'buyer') return [...defaultTabs, 'buyer'];
     if (role === 'admin') return [...defaultTabs, 'admin'];
     return defaultTabs;
@@ -129,6 +146,11 @@ export default function App() {
     safeNavigate(sessionUser.role);
     setAccountMenuOpen(false);
   };
+
+  useEffect(() => {
+    const cleanupSync = initializeSync();
+    return cleanupSync;
+  }, []);
 
   useEffect(() => {
     if (!allowedTabs.includes(activeTab)) {
@@ -239,6 +261,10 @@ export default function App() {
             ) : null}
           </div>
         </div>
+        <div className="connectivity-bar">
+          <ConnectivityStatus />
+          <SyncStatus />
+        </div>
       </header>
 
       {globalToast.message ? <div className={`global-toast global-toast-${globalToast.type}`}>{globalToast.message}</div> : null}
@@ -263,6 +289,10 @@ export default function App() {
         {activeTab === 'admin' ? (role === 'admin' ? <AdminPage /> : <AccessDenied role="admin" onGoAuth={() => setActiveTab('auth')} />) : null}
         {activeTab === 'farmer' ? (role === 'farmer' ? <FarmerDashboard /> : <AccessDenied role="farmer" onGoAuth={() => setActiveTab('auth')} />) : null}
         {activeTab === 'buyer' ? (role === 'buyer' ? <BuyerDashboard /> : <AccessDenied role="buyer" onGoAuth={() => setActiveTab('auth')} />) : null}
+        {activeTab === 'disease' ? (role === 'farmer' ? <DiseaseDetectionPage /> : <AccessDenied role="farmer" onGoAuth={() => setActiveTab('auth')} />) : null}
+        {activeTab === 'treatment' ? (role === 'farmer' ? <TreatmentGuidancePage onBack={() => safeNavigate('disease')} /> : <AccessDenied role="farmer" onGoAuth={() => setActiveTab('auth')} />) : null}
+        {activeTab === 'cold-storage' ? (role === 'farmer' ? <ColdStoragePage /> : <AccessDenied role="farmer" onGoAuth={() => setActiveTab('auth')} />) : null}
+        {activeTab === 'logistics' ? (role === 'farmer' ? <LogisticsPage /> : <AccessDenied role="farmer" onGoAuth={() => setActiveTab('auth')} />) : null}
       </main>
     </div>
   );

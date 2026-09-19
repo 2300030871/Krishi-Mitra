@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Irrigated crop rows</title>
+  <desc id="desc">Aerial-inspired rows of crops with water channels and a farmhouse.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d8f3dc"/><stop offset="1" stop-color="#95d5b2"/></linearGradient>
+    <linearGradient id="soil" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#bc8a5f"/><stop offset="1" stop-color="#8c5e3c"/></linearGradient>
+  </defs>
+  <rect width="1600" height="700" fill="url(#sky)"/>
+  <path d="M0 230 Q300 130 620 230 T1200 210 T1600 240 V700 H0Z" fill="#74a57f"/>
+  <path d="M0 330 L410 270 L1600 390 V700 H0Z" fill="url(#soil)"/>
+  <g opacity=".9"><path d="M0 420 L1600 530 V570 L0 460Z" fill="#56cfe1"/><path d="M0 570 L1600 650 V680 L0 610Z" fill="#56cfe1"/></g>
+  <g fill="#386641"><path d="M130 330 l38-105 38 115z"/><path d="M300 350 l38-130 38 140z"/><path d="M480 365 l38-115 38 125z"/><path d="M1170 420 l38-130 38 140z"/><path d="M1350 440 l38-110 38 120z"/></g>
+  <g stroke="#f2cc8f" stroke-width="18" opacity=".8"><path d="M30 350 L1530 465"/><path d="M20 510 L1550 615"/></g>
+  <g transform="translate(1110 180)"><path d="M0 100 L130 0 L260 100Z" fill="#d62828"/><rect x="35" y="100" width="190" height="130" fill="#fefae0"/><rect x="115" y="155" width="45" height="75" fill="#8d5524"/><rect x="65" y="125" width="42" height="42" fill="#56a3a6"/><rect x="170" y="125" width="42" height="42" fill="#56a3a6"/></g>
+</svg>

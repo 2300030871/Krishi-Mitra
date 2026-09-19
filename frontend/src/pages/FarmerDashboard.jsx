@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import socket from '../socket';
 import { getStoredUser, setStoredUser } from '../auth';
@@ -6,6 +6,8 @@ import { emitToast } from '../toast';
 import { createCrop, deleteCrop, getMyCrops, updateCrop } from '../services/cropService';
 import { updateLanguagePreference } from '../services/userService';
 import ChatPanel from '../components/ChatPanel';
+import { isConnectivityError } from '../services/connectivityService';
+import { deleteDraft, getDraft, saveDraft } from '../services/offlineStorage';
 
 const sidebarItems = [
   { key: 'my-crops', labelKey: 'myCrops' },
@@ -28,8 +30,10 @@ const API_ORIGIN = (import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000/
 
 const resolveAssetUrl = (url) => {
   if (!url) return '';
-  if (String(url).startsWith('http')) return url;
-  return `${API_ORIGIN}${url}`;
+  const normalized = String(url).replace(/\\/g, '/');
+  if (normalized.startsWith('http')) return normalized;
+  const path = normalized.startsWith('/') ? normalized : `/${normalized}`;
+  return `${API_ORIGIN}${path.startsWith('/uploads/') ? path : `/uploads/${path.slice(1)}`}`;
 };
 
 export default function FarmerDashboard() {
@@ -50,6 +54,18 @@ export default function FarmerDashboard() {
   const [language, setLanguage] = useState(currentUser?.preferredLanguage || 'english');
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState('');
+  const cropDraftLoaded = useRef(false);
+
+  useEffect(() => {
+    getDraft('crop-form').then((draft) => {
+      if (draft?.data) setCropForm((previous) => ({ ...previous, ...draft.data }));
+      cropDraftLoaded.current = true;
+    });
+  }, []);
+
+  useEffect(() => {
+    if (cropDraftLoaded.current) saveDraft('crop-form', cropForm);
+  }, [cropForm]);
 
   const loadMyCrops = async () => {
     try {
@@ -87,6 +103,7 @@ export default function FarmerDashboard() {
   const resetCropForm = () => {
     setCropForm(initialForm);
     setEditingCropId('');
+    deleteDraft('crop-form');
   };
 
   const buildFormData = () => {
@@ -125,7 +142,7 @@ export default function FarmerDashboard() {
       setError('');
       setActivePanel('my-crops');
     } catch (err) {
-      setError(err.response?.data?.message || 'Failed to save crop.');
+      setError(isConnectivityError(err) ? 'Connection unavailable. Your crop form is saved locally.' : err.response?.data?.message || 'Failed to save crop.');
     } finally {
       setLoading(false);
     }

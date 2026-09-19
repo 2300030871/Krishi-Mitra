@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Harvest basket with fresh produce</title>
+  <desc id="desc">Fresh red and orange produce in a basket against a sunny field.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#bde0fe"/><stop offset="1" stop-color="#e2f0cb"/></linearGradient>
+    <linearGradient id="basket" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#b5651d"/><stop offset="1" stop-color="#7f451d"/></linearGradient>
+  </defs>
+  <rect width="1600" height="700" fill="url(#sky)"/>
+  <circle cx="250" cy="145" r="78" fill="#ffd166"/>
+  <path d="M0 390 Q280 300 590 380 T1160 360 T1600 380 V700 H0Z" fill="#77a65b"/>
+  <path d="M0 500 Q340 410 680 500 T1270 470 T1600 500 V700 H0Z" fill="#477a43"/>
+  <ellipse cx="800" cy="585" rx="330" ry="70" fill="#3b3024" opacity=".22"/>
+  <path d="M510 360 Q800 250 1090 360 L1035 635 Q800 700 565 635Z" fill="url(#basket)" stroke="#5d351b" stroke-width="12"/>
+  <path d="M590 400 Q800 320 1010 400" fill="none" stroke="#e2a15f" stroke-width="18"/>
+  <g stroke="#6b391b" stroke-width="10" opacity=".65"><path d="M610 405 L650 650"/><path d="M700 380 L725 675"/><path d="M800 365 V680"/><path d="M900 380 L875 675"/><path d="M990 405 L950 650"/></g>
+  <g><circle cx="680" cy="330" r="78" fill="#e85d04"/><circle cx="810" cy="300" r="86" fill="#f48c06"/><circle cx="930" cy="335" r="76" fill="#d62828"/><path d="M800 220 Q820 160 875 175 Q840 225 800 220Z" fill="#386641"/><path d="M655 260 Q620 215 650 180 Q705 210 690 270Z" fill="#386641"/></g>
+</svg>

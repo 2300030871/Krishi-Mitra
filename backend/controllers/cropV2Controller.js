@@ -6,6 +6,7 @@ const toPublicPath = (filePath) => {
   const normalized = String(filePath).replace(/\\/g, '/');
   if (normalized.startsWith('http')) return normalized;
   if (normalized.startsWith('/uploads/')) return normalized;
+  if (normalized.startsWith('uploads/')) return `/${normalized}`;
   return `/uploads/${normalized.split('/uploads/').pop()}`;
 };
 

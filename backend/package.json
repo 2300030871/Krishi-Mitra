@@ -5,7 +5,10 @@
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "node server.js"
+    "start": "node server.js",
+    "seed:treatments": "node scripts/seedTreatments.js",
+    "seed:cold-storage": "node scripts/seedColdStorage.js",
+    "seed:logistics": "node scripts/seedLogisticsProviders.js"
   },
   "engines": {
     "node": ">=18.0.0"

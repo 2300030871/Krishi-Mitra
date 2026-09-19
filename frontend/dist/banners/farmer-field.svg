@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 700" role="img" aria-labelledby="title desc">
+  <title id="title">Farmer walking through a green crop field</title>
+  <desc id="desc">A warm sunrise over layered agricultural fields.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f7b267"/><stop offset="1" stop-color="#fcd5a3"/></linearGradient>
+    <linearGradient id="field" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4f772d"/><stop offset="1" stop-color="#90a955"/></linearGradient>
+  </defs>
+  <rect width="1600" height="700" fill="url(#sky)"/>
+  <circle cx="1240" cy="165" r="92" fill="#fff1b8" opacity=".9"/>
+  <path d="M0 390 Q260 280 530 380 T1060 350 T1600 360 V700 H0Z" fill="#31572c"/>
+  <path d="M0 470 Q280 370 570 470 T1120 430 T1600 450 V700 H0Z" fill="url(#field)"/>
+  <path d="M0 570 Q260 470 620 570 T1200 530 T1600 550 V700 H0Z" fill="#cfe1b9" opacity=".85"/>
+  <path d="M220 700 Q500 560 820 470 Q1040 405 1390 360" fill="none" stroke="#f1c27d" stroke-width="70" opacity=".75"/>
+  <g fill="#31572c"><path d="M320 590 l18-100 18 100z"/><path d="M390 575 l18-120 18 120z"/><path d="M460 560 l18-105 18 105z"/><path d="M1150 475 l18-110 18 110z"/><path d="M1220 470 l18-130 18 130z"/></g>
+</svg>

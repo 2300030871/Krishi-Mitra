@@ -1,13 +1,14 @@
 import { useEffect, useState } from 'react';
 
 const images = [
-  'https://res.cloudinary.com/dp55vvd7j/image/upload/v1758301493/farmer-banner_im2nez.jpg',
-  'https://res.cloudinary.com/dp55vvd7j/image/upload/v1758301491/Template-landscape-of-agriculture-and-farming-on-banner-8-large_rpvtor.jpg',
-  'https://res.cloudinary.com/dp55vvd7j/image/upload/v1758301487/image1_ttsey7.webp',
+  '/banners/farmer-field.svg',
+  '/banners/harvest-basket.svg',
+  '/banners/irrigated-crops.svg',
 ];
 
 export default function HeroCarousel() {
   const [index, setIndex] = useState(0);
+  const [imageFailed, setImageFailed] = useState(false);
 
   useEffect(() => {
     const timer = setInterval(() => {
@@ -17,16 +18,31 @@ export default function HeroCarousel() {
     return () => clearInterval(timer);
   }, []);
 
-  const prev = () => setIndex((current) => (current - 1 + images.length) % images.length);
-  const next = () => setIndex((current) => (current + 1) % images.length);
+  useEffect(() => {
+    setImageFailed(false);
+  }, [index]);
+
+  const changeSlide = (change) => {
+    setImageFailed(false);
+    setIndex(change);
+  };
 
   return (
     <div className="hero-carousel">
-      <img src={images[index]} alt="Agri banner" className="hero-image" />
-      <button className="carousel-btn left" onClick={prev} aria-label="Previous image">
+      {!imageFailed ? (
+        <img
+          src={images[index]}
+          alt="Agriculture banner"
+          className="hero-image"
+          onError={() => setImageFailed(true)}
+        />
+      ) : (
+        <div className="hero-image hero-image-fallback" role="img" aria-label="Agriculture banner" />
+      )}
+      <button className="carousel-btn left" onClick={() => changeSlide((index - 1 + images.length) % images.length)} aria-label="Previous image">
         ‹
       </button>
-      <button className="carousel-btn right" onClick={next} aria-label="Next image">
+      <button className="carousel-btn right" onClick={() => changeSlide((index + 1) % images.length)} aria-label="Next image">
         ›
       </button>
     </div>

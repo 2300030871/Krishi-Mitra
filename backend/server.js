@@ -16,6 +16,10 @@ const weatherRoutes = require('./routes/weatherRoutes');
 const adminRoutes = require('./routes/adminRoutes');
 const messageRoutes = require('./routes/messageRoutes');
 const userRoutes = require('./routes/userRoutes');
+const diseaseRoutes = require('./routes/diseaseRoutes');
+const treatmentRoutes = require('./routes/treatmentRoutes');
+const coldStorageRoutes = require('./routes/coldStorageRoutes');
+const logisticsRoutes = require('./routes/logisticsRoutes');
 const { initializeSocketHandlers } = require('./socket');
 
 const app = express();
@@ -24,6 +28,9 @@ const allowedOrigins = String(process.env.CLIENT_URL || 'http://localhost:5173')
   .split(',')
   .map((origin) => origin.trim())
   .filter(Boolean);
+['http://localhost:5173', 'http://127.0.0.1:5173'].forEach((origin) => {
+  if (!allowedOrigins.includes(origin)) allowedOrigins.push(origin);
+});
 
 const isOriginAllowed = (origin) => {
   if (!origin) return true;
@@ -66,6 +73,10 @@ app.use((req, res, next) => {
   next();
 });
 
+app.get('/api', (req, res) => {
+  res.json({ message: 'Agrimandi API is running.', health: '/api/health' });
+});
+
 app.get('/api/health', (req, res) => {
   res.json({ message: 'Backend is running.' });
 });
@@ -78,13 +89,21 @@ app.use('/api', weatherRoutes);
 app.use('/api', adminRoutes);
 app.use('/api', messageRoutes);
 app.use('/api', userRoutes);
+app.use('/api', diseaseRoutes);
+app.use('/api', treatmentRoutes);
+app.use('/api', coldStorageRoutes);
+app.use('/api', logisticsRoutes);
 
 app.use((error, req, res, next) => {
   if (error?.name === 'MulterError') {
     return res.status(400).json({ message: error.message || 'File upload failed.' });
   }
 
-  if (error?.message === 'Only image files are allowed.' || error?.message === 'Only audio files are allowed.') {
+  if (
+    error?.message === 'Only image files are allowed.' ||
+    error?.message === 'Only audio files are allowed.' ||
+    error?.message === 'Only JPEG, PNG, and WEBP image files are allowed.'
+  ) {
     return res.status(400).json({ message: error.message });
   }
 

@@ -5,6 +5,10 @@ const { toCanonicalLanguage } = require('../utils/language');
 
 const validRoles = new Set(['farmer', 'buyer', 'admin']);
 
+const normalizeEmail = (email) => String(email || '').trim().toLowerCase();
+
+const escapeRegex = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
 const buildToken = (user) => {
   return jwt.sign(
     {
@@ -24,8 +28,9 @@ const buildToken = (user) => {
 const register = async (req, res, next) => {
   try {
     const { name, email, password, role = 'farmer' } = req.body;
+    const normalizedEmail = normalizeEmail(email);
 
-    if (!name || !email || !password) {
+    if (!name || !normalizedEmail || !password) {
       return res.status(400).json({ message: 'Name, email, and password are required.' });
     }
 
@@ -34,7 +39,7 @@ const register = async (req, res, next) => {
       return res.status(400).json({ message: 'Role must be farmer, buyer, or admin.' });
     }
 
-    const existingUser = await User.findOne({ email: String(email).toLowerCase() });
+    const existingUser = await User.findOne({ email: normalizedEmail });
     if (existingUser) {
       return res.status(409).json({ message: 'User already exists with this email.' });
     }
@@ -42,7 +47,7 @@ const register = async (req, res, next) => {
     const hashedPassword = await bcrypt.hash(password, 10);
     const user = await User.create({
       name,
-      email,
+      email: normalizedEmail,
       password: hashedPassword,
       role: normalizedRole,
       preferredLanguage: 'english',
@@ -71,12 +76,15 @@ const register = async (req, res, next) => {
 const loginInternal = async (req, res, next, expectedRole) => {
   try {
     const { email, password } = req.body;
+    const normalizedEmail = normalizeEmail(email);
 
-    if (!email || !password) {
+    if (!normalizedEmail || !password) {
       return res.status(400).json({ message: 'Email and password are required.' });
     }
 
-    const user = await User.findOne({ email: String(email).toLowerCase() });
+    const user = await User.findOne({
+      email: { $regex: `^${escapeRegex(normalizedEmail)}$`, $options: 'i' },
+    });
     if (!user) {
       return res.status(401).json({ message: 'Invalid credentials.' });
     }
